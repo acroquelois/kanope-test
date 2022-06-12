@@ -6,7 +6,8 @@
     "node": ">=14.6.0"
   },
   "scripts": {
-    "start-web": "pnpm --filter=./packages/* run dev",
+    "start-web": "pnpm --filter=./packages/web-interface run dev",
+    "start-fake-sensor": "pnpm --filter=./packages/fake-sensor-transmitter run start",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint packages --ext .vue"
   },

@@ -1,0 +1,6013 @@
+{
+  "devices":  [
+    "D5:CC:87:E0:23:6B",
+    "D5:CC:87:E0:45:74",
+    "D5:CC:87:E0:84:20",
+    "D5:CC:87:E0:95:64",
+    "D5:CC:87:E0:25:80",
+    "D5:CC:87:E0:65:70",
+    "D5:CC:87:E0:71:98"
+  ],
+  "data": [
+    {
+      "temperature_1": 23.91,
+      "humidity": 45.03,
+      "pressure": 999.5571,
+      "rssi": -84.5597
+    },
+    {
+      "temperature_1": 21.21,
+      "humidity": 49.25,
+      "pressure": 992.5073,
+      "rssi": -91.6508
+    },
+    {
+      "temperature_1": 22.11,
+      "humidity": 49.37,
+      "pressure": 1006.4169,
+      "rssi": -61.41
+    },
+    {
+      "temperature_1": 23.12,
+      "humidity": 48.24,
+      "pressure": 1009.57,
+      "rssi": -79.633
+    },
+    {
+      "temperature_1": 22.63,
+      "humidity": 46.83,
+      "pressure": 1001.9177,
+      "rssi": -80.7775
+    },
+    {
+      "temperature_1": 22.13,
+      "humidity": 49.33,
+      "pressure": 994.5821,
+      "rssi": -90.2306
+    },
+    {
+      "temperature_1": 22.62,
+      "humidity": 47.34,
+      "pressure": 1001.1127,
+      "rssi": -67.2224
+    },
+    {
+      "temperature_1": 24.17,
+      "humidity": 45.49,
+      "pressure": 1004.1644,
+      "rssi": -74.6166
+    },
+    {
+      "temperature_1": 23.8,
+      "humidity": 49.79,
+      "pressure": 999.4768,
+      "rssi": -92.6171
+    },
+    {
+      "temperature_1": 24.42,
+      "humidity": 49.57,
+      "pressure": 1001.4552,
+      "rssi": -57.3238
+    },
+    {
+      "temperature_1": 20.99,
+      "humidity": 45.86,
+      "pressure": 1007.2072,
+      "rssi": -73.5916
+    },
+    {
+      "temperature_1": 24.37,
+      "humidity": 49.57,
+      "pressure": 998.4953,
+      "rssi": -89.7526
+    },
+    {
+      "temperature_1": 23.91,
+      "humidity": 45.72,
+      "pressure": 994.5097,
+      "rssi": -76.3628
+    },
+    {
+      "temperature_1": 20.22,
+      "humidity": 47.76,
+      "pressure": 1001.7332,
+      "rssi": -79.9927
+    },
+    {
+      "temperature_1": 23.99,
+      "humidity": 49.49,
+      "pressure": 1004.1069,
+      "rssi": -98.4471
+    },
+    {
+      "temperature_1": 20.12,
+      "humidity": 48.96,
+      "pressure": 1004.737,
+      "rssi": -61.0461
+    },
+    {
+      "temperature_1": 20.68,
+      "humidity": 49.44,
+      "pressure": 1005.8335,
+      "rssi": -56.8497
+    },
+    {
+      "temperature_1": 21.56,
+      "humidity": 48.24,
+      "pressure": 990.6572,
+      "rssi": -84.8258
+    },
+    {
+      "temperature_1": 20.61,
+      "humidity": 45.23,
+      "pressure": 1009.7916,
+      "rssi": -51.3649
+    },
+    {
+      "temperature_1": 23.65,
+      "humidity": 49.17,
+      "pressure": 1007.6737,
+      "rssi": -82.3678
+    },
+    {
+      "temperature_1": 24.99,
+      "humidity": 47.97,
+      "pressure": 1005.7824,
+      "rssi": -69.3818
+    },
+    {
+      "temperature_1": 20.52,
+      "humidity": 47.74,
+      "pressure": 1007.6376,
+      "rssi": -86.1613
+    },
+    {
+      "temperature_1": 23.63,
+      "humidity": 48.57,
+      "pressure": 998.6199,
+      "rssi": -63.5834
+    },
+    {
+      "temperature_1": 20.01,
+      "humidity": 46.65,
+      "pressure": 999.218,
+      "rssi": -69.111
+    },
+    {
+      "temperature_1": 23.49,
+      "humidity": 47.16,
+      "pressure": 1008.5083,
+      "rssi": -89.0999
+    },
+    {
+      "temperature_1": 20.76,
+      "humidity": 46.69,
+      "pressure": 1004.7563,
+      "rssi": -86.1464
+    },
+    {
+      "temperature_1": 23.96,
+      "humidity": 46.91,
+      "pressure": 1004.6341,
+      "rssi": -50.8045
+    },
+    {
+      "temperature_1": 24.23,
+      "humidity": 47.63,
+      "pressure": 1006.4633,
+      "rssi": -61.8206
+    },
+    {
+      "temperature_1": 21.79,
+      "humidity": 48.03,
+      "pressure": 1005.2066,
+      "rssi": -72.426
+    },
+    {
+      "temperature_1": 24.95,
+      "humidity": 47.07,
+      "pressure": 993.2172,
+      "rssi": -86.168
+    },
+    {
+      "temperature_1": 23.94,
+      "humidity": 46.74,
+      "pressure": 1000.0216,
+      "rssi": -70.088
+    },
+    {
+      "temperature_1": 20.8,
+      "humidity": 49.92,
+      "pressure": 992.7452,
+      "rssi": -67.5784
+    },
+    {
+      "temperature_1": 22.74,
+      "humidity": 48.04,
+      "pressure": 1004.3464,
+      "rssi": -86.7168
+    },
+    {
+      "temperature_1": 21.65,
+      "humidity": 45.17,
+      "pressure": 992.6667,
+      "rssi": -87.8909
+    },
+    {
+      "temperature_1": 21.05,
+      "humidity": 47.69,
+      "pressure": 1000.555,
+      "rssi": -66.9928
+    },
+    {
+      "temperature_1": 23.18,
+      "humidity": 49.62,
+      "pressure": 997.153,
+      "rssi": -88.4923
+    },
+    {
+      "temperature_1": 24.59,
+      "humidity": 45.9,
+      "pressure": 1003.2133,
+      "rssi": -68.9223
+    },
+    {
+      "temperature_1": 22.99,
+      "humidity": 49.25,
+      "pressure": 997.9155,
+      "rssi": -64.6451
+    },
+    {
+      "temperature_1": 23.58,
+      "humidity": 45.77,
+      "pressure": 1007.0849,
+      "rssi": -54.4034
+    },
+    {
+      "temperature_1": 21.35,
+      "humidity": 47.14,
+      "pressure": 1002.0962,
+      "rssi": -55.5897
+    },
+    {
+      "temperature_1": 20.52,
+      "humidity": 46.55,
+      "pressure": 992.1356,
+      "rssi": -66.4037
+    },
+    {
+      "temperature_1": 20.78,
+      "humidity": 49.92,
+      "pressure": 999.2681,
+      "rssi": -59.4851
+    },
+    {
+      "temperature_1": 24.34,
+      "humidity": 46.12,
+      "pressure": 996.4421,
+      "rssi": -58.258
+    },
+    {
+      "temperature_1": 23.26,
+      "humidity": 48.17,
+      "pressure": 1005.0749,
+      "rssi": -78.7282
+    },
+    {
+      "temperature_1": 20.8,
+      "humidity": 49.77,
+      "pressure": 1008.9221,
+      "rssi": -85.1109
+    },
+    {
+      "temperature_1": 21.13,
+      "humidity": 46.32,
+      "pressure": 990.7342,
+      "rssi": -65.5068
+    },
+    {
+      "temperature_1": 24.34,
+      "humidity": 49.2,
+      "pressure": 992.0627,
+      "rssi": -96.5102
+    },
+    {
+      "temperature_1": 24.39,
+      "humidity": 49.07,
+      "pressure": 1004.5181,
+      "rssi": -55.0359
+    },
+    {
+      "temperature_1": 21.68,
+      "humidity": 47.78,
+      "pressure": 993.1754,
+      "rssi": -65.891
+    },
+    {
+      "temperature_1": 23.98,
+      "humidity": 47.18,
+      "pressure": 1007.7264,
+      "rssi": -89.9466
+    },
+    {
+      "temperature_1": 24.57,
+      "humidity": 49.33,
+      "pressure": 990.1166,
+      "rssi": -92.4199
+    },
+    {
+      "temperature_1": 24.56,
+      "humidity": 45.14,
+      "pressure": 990.7659,
+      "rssi": -80.1707
+    },
+    {
+      "temperature_1": 20.47,
+      "humidity": 46.63,
+      "pressure": 999.5972,
+      "rssi": -62.1295
+    },
+    {
+      "temperature_1": 20.89,
+      "humidity": 49.66,
+      "pressure": 1009.6086,
+      "rssi": -63.9544
+    },
+    {
+      "temperature_1": 23.09,
+      "humidity": 48.63,
+      "pressure": 992.0352,
+      "rssi": -94.7575
+    },
+    {
+      "temperature_1": 22.58,
+      "humidity": 46.05,
+      "pressure": 1003.2292,
+      "rssi": -56.7666
+    },
+    {
+      "temperature_1": 21.78,
+      "humidity": 48.5,
+      "pressure": 995.7662,
+      "rssi": -85.8839
+    },
+    {
+      "temperature_1": 20.06,
+      "humidity": 46.25,
+      "pressure": 990.5756,
+      "rssi": -73.1472
+    },
+    {
+      "temperature_1": 24.88,
+      "humidity": 48,
+      "pressure": 1001.301,
+      "rssi": -58.9504
+    },
+    {
+      "temperature_1": 22.57,
+      "humidity": 46.09,
+      "pressure": 1002.6734,
+      "rssi": -66.8977
+    },
+    {
+      "temperature_1": 22.8,
+      "humidity": 48.16,
+      "pressure": 994.6363,
+      "rssi": -65.766
+    },
+    {
+      "temperature_1": 24.68,
+      "humidity": 46.83,
+      "pressure": 996.758,
+      "rssi": -57.6037
+    },
+    {
+      "temperature_1": 21.55,
+      "humidity": 49.82,
+      "pressure": 990.9729,
+      "rssi": -67.3984
+    },
+    {
+      "temperature_1": 23.57,
+      "humidity": 48.82,
+      "pressure": 990.5981,
+      "rssi": -72.0469
+    },
+    {
+      "temperature_1": 20.92,
+      "humidity": 47.47,
+      "pressure": 1006.1015,
+      "rssi": -91.3257
+    },
+    {
+      "temperature_1": 24.74,
+      "humidity": 46.53,
+      "pressure": 996.119,
+      "rssi": -93.4295
+    },
+    {
+      "temperature_1": 23.4,
+      "humidity": 45.95,
+      "pressure": 999.6957,
+      "rssi": -86.516
+    },
+    {
+      "temperature_1": 20.64,
+      "humidity": 46.57,
+      "pressure": 1008.6903,
+      "rssi": -79.4487
+    },
+    {
+      "temperature_1": 23.68,
+      "humidity": 46.67,
+      "pressure": 993.3642,
+      "rssi": -58.4569
+    },
+    {
+      "temperature_1": 22.76,
+      "humidity": 49.37,
+      "pressure": 995.9535,
+      "rssi": -75.2518
+    },
+    {
+      "temperature_1": 21.03,
+      "humidity": 46.79,
+      "pressure": 990.1764,
+      "rssi": -93.6837
+    },
+    {
+      "temperature_1": 24.57,
+      "humidity": 49.14,
+      "pressure": 1003.5982,
+      "rssi": -56.4827
+    },
+    {
+      "temperature_1": 21.82,
+      "humidity": 46.49,
+      "pressure": 1004.294,
+      "rssi": -99.3531
+    },
+    {
+      "temperature_1": 20.43,
+      "humidity": 47.51,
+      "pressure": 992.5776,
+      "rssi": -70.4524
+    },
+    {
+      "temperature_1": 24.74,
+      "humidity": 48.08,
+      "pressure": 1003.5666,
+      "rssi": -81.558
+    },
+    {
+      "temperature_1": 24.8,
+      "humidity": 45.16,
+      "pressure": 1006.3518,
+      "rssi": -76.6996
+    },
+    {
+      "temperature_1": 21.48,
+      "humidity": 45.91,
+      "pressure": 1006.6992,
+      "rssi": -53.1871
+    },
+    {
+      "temperature_1": 20.28,
+      "humidity": 47.39,
+      "pressure": 1001.0736,
+      "rssi": -82.6133
+    },
+    {
+      "temperature_1": 22.63,
+      "humidity": 47.7,
+      "pressure": 1004.8994,
+      "rssi": -78.0888
+    },
+    {
+      "temperature_1": 22.26,
+      "humidity": 45.42,
+      "pressure": 1004.7713,
+      "rssi": -92.3312
+    },
+    {
+      "temperature_1": 20.35,
+      "humidity": 49.18,
+      "pressure": 1007.2769,
+      "rssi": -64.8886
+    },
+    {
+      "temperature_1": 20.59,
+      "humidity": 45.42,
+      "pressure": 990.9535,
+      "rssi": -84.3531
+    },
+    {
+      "temperature_1": 20.27,
+      "humidity": 48.87,
+      "pressure": 1007.355,
+      "rssi": -64.1609
+    },
+    {
+      "temperature_1": 24.84,
+      "humidity": 46.71,
+      "pressure": 1003.7694,
+      "rssi": -51.9643
+    },
+    {
+      "temperature_1": 20.78,
+      "humidity": 49.37,
+      "pressure": 994.4502,
+      "rssi": -93.5011
+    },
+    {
+      "temperature_1": 23.69,
+      "humidity": 47.48,
+      "pressure": 1000.6537,
+      "rssi": -94.1105
+    },
+    {
+      "temperature_1": 20.46,
+      "humidity": 47.53,
+      "pressure": 993.6917,
+      "rssi": -78.1485
+    },
+    {
+      "temperature_1": 24.6,
+      "humidity": 49.09,
+      "pressure": 990.2791,
+      "rssi": -80.883
+    },
+    {
+      "temperature_1": 23.16,
+      "humidity": 49.79,
+      "pressure": 1006.2078,
+      "rssi": -65.5939
+    },
+    {
+      "temperature_1": 20.48,
+      "humidity": 48.2,
+      "pressure": 1001.7773,
+      "rssi": -98.8844
+    },
+    {
+      "temperature_1": 23.33,
+      "humidity": 45.47,
+      "pressure": 1002.2708,
+      "rssi": -63.0143
+    },
+    {
+      "temperature_1": 20.98,
+      "humidity": 48.74,
+      "pressure": 998.0373,
+      "rssi": -96.5051
+    },
+    {
+      "temperature_1": 20.76,
+      "humidity": 45.04,
+      "pressure": 997.0165,
+      "rssi": -75.6218
+    },
+    {
+      "temperature_1": 20.47,
+      "humidity": 47.05,
+      "pressure": 1006.8631,
+      "rssi": -58.7418
+    },
+    {
+      "temperature_1": 22.33,
+      "humidity": 46.04,
+      "pressure": 996.7976,
+      "rssi": -51.5727
+    },
+    {
+      "temperature_1": 23.05,
+      "humidity": 48.93,
+      "pressure": 992.5277,
+      "rssi": -93.519
+    },
+    {
+      "temperature_1": 23.2,
+      "humidity": 48.41,
+      "pressure": 1006.458,
+      "rssi": -63.0628
+    },
+    {
+      "temperature_1": 21.98,
+      "humidity": 48.17,
+      "pressure": 999.5365,
+      "rssi": -87.3345
+    },
+    {
+      "temperature_1": 23.46,
+      "humidity": 49.09,
+      "pressure": 1003.1242,
+      "rssi": -56.4723
+    },
+    {
+      "temperature_1": 24.31,
+      "humidity": 47.05,
+      "pressure": 1008.6452,
+      "rssi": -53.6568
+    },
+    {
+      "temperature_1": 23.7,
+      "humidity": 45.65,
+      "pressure": 1006.0147,
+      "rssi": -77.1124
+    },
+    {
+      "temperature_1": 21.88,
+      "humidity": 45.21,
+      "pressure": 997.6089,
+      "rssi": -54.1936
+    },
+    {
+      "temperature_1": 23.33,
+      "humidity": 48.76,
+      "pressure": 1007.8728,
+      "rssi": -88.8967
+    },
+    {
+      "temperature_1": 24.44,
+      "humidity": 45.83,
+      "pressure": 995.1838,
+      "rssi": -57.2985
+    },
+    {
+      "temperature_1": 24.45,
+      "humidity": 45.23,
+      "pressure": 990.2985,
+      "rssi": -88.1371
+    },
+    {
+      "temperature_1": 20,
+      "humidity": 48.2,
+      "pressure": 1005.9633,
+      "rssi": -95.6917
+    },
+    {
+      "temperature_1": 22.69,
+      "humidity": 49.95,
+      "pressure": 1007.9305,
+      "rssi": -82.0239
+    },
+    {
+      "temperature_1": 23.4,
+      "humidity": 48.53,
+      "pressure": 1005.5756,
+      "rssi": -70.1788
+    },
+    {
+      "temperature_1": 21.73,
+      "humidity": 48.74,
+      "pressure": 1002.1989,
+      "rssi": -63.717
+    },
+    {
+      "temperature_1": 20.19,
+      "humidity": 48.13,
+      "pressure": 1009.0621,
+      "rssi": -91.543
+    },
+    {
+      "temperature_1": 24.59,
+      "humidity": 47.76,
+      "pressure": 1004.6393,
+      "rssi": -50.1018
+    },
+    {
+      "temperature_1": 21.14,
+      "humidity": 49.34,
+      "pressure": 996.9688,
+      "rssi": -81.9601
+    },
+    {
+      "temperature_1": 22.59,
+      "humidity": 45.85,
+      "pressure": 990.512,
+      "rssi": -92.7497
+    },
+    {
+      "temperature_1": 22.73,
+      "humidity": 45.18,
+      "pressure": 994.3626,
+      "rssi": -98.7899
+    },
+    {
+      "temperature_1": 21.4,
+      "humidity": 47.03,
+      "pressure": 991.9289,
+      "rssi": -84.4971
+    },
+    {
+      "temperature_1": 22.3,
+      "humidity": 49.35,
+      "pressure": 998.4711,
+      "rssi": -59.7936
+    },
+    {
+      "temperature_1": 24.31,
+      "humidity": 46.58,
+      "pressure": 999.8297,
+      "rssi": -99.211
+    },
+    {
+      "temperature_1": 22.67,
+      "humidity": 48.13,
+      "pressure": 999.7593,
+      "rssi": -88.0705
+    },
+    {
+      "temperature_1": 24.92,
+      "humidity": 49,
+      "pressure": 993.6214,
+      "rssi": -76.6459
+    },
+    {
+      "temperature_1": 22.97,
+      "humidity": 46.97,
+      "pressure": 1005.6872,
+      "rssi": -97.373
+    },
+    {
+      "temperature_1": 24.73,
+      "humidity": 46.82,
+      "pressure": 991.7516,
+      "rssi": -61.0522
+    },
+    {
+      "temperature_1": 22.64,
+      "humidity": 49.05,
+      "pressure": 1005.8359,
+      "rssi": -66.9342
+    },
+    {
+      "temperature_1": 22.81,
+      "humidity": 47.29,
+      "pressure": 1005.8246,
+      "rssi": -66.1709
+    },
+    {
+      "temperature_1": 22.72,
+      "humidity": 47.57,
+      "pressure": 999.8986,
+      "rssi": -53.5257
+    },
+    {
+      "temperature_1": 22.92,
+      "humidity": 45.55,
+      "pressure": 992.3996,
+      "rssi": -76.2905
+    },
+    {
+      "temperature_1": 21.68,
+      "humidity": 49.22,
+      "pressure": 998.5609,
+      "rssi": -79.3572
+    },
+    {
+      "temperature_1": 20.35,
+      "humidity": 48.45,
+      "pressure": 992.885,
+      "rssi": -71.3063
+    },
+    {
+      "temperature_1": 20.54,
+      "humidity": 49.86,
+      "pressure": 1003.9434,
+      "rssi": -69.3217
+    },
+    {
+      "temperature_1": 20.16,
+      "humidity": 45.1,
+      "pressure": 992.1156,
+      "rssi": -96.7724
+    },
+    {
+      "temperature_1": 24.07,
+      "humidity": 48.1,
+      "pressure": 1000.3531,
+      "rssi": -56.4312
+    },
+    {
+      "temperature_1": 24.26,
+      "humidity": 45.92,
+      "pressure": 994.4613,
+      "rssi": -94.1891
+    },
+    {
+      "temperature_1": 23.2,
+      "humidity": 47.02,
+      "pressure": 1002.8026,
+      "rssi": -79.5906
+    },
+    {
+      "temperature_1": 20.77,
+      "humidity": 49.84,
+      "pressure": 1008.2842,
+      "rssi": -92.5293
+    },
+    {
+      "temperature_1": 22.98,
+      "humidity": 48.8,
+      "pressure": 996.5291,
+      "rssi": -51.9094
+    },
+    {
+      "temperature_1": 24.87,
+      "humidity": 46.46,
+      "pressure": 992.8902,
+      "rssi": -56.1009
+    },
+    {
+      "temperature_1": 20.18,
+      "humidity": 46.66,
+      "pressure": 1009.53,
+      "rssi": -89.4041
+    },
+    {
+      "temperature_1": 23.39,
+      "humidity": 48.16,
+      "pressure": 1004.2497,
+      "rssi": -71.3569
+    },
+    {
+      "temperature_1": 22.17,
+      "humidity": 47.31,
+      "pressure": 1003.822,
+      "rssi": -61.719
+    },
+    {
+      "temperature_1": 20.79,
+      "humidity": 46.39,
+      "pressure": 996.6049,
+      "rssi": -73.6396
+    },
+    {
+      "temperature_1": 21.27,
+      "humidity": 48.61,
+      "pressure": 1005.7178,
+      "rssi": -56.7699
+    },
+    {
+      "temperature_1": 21.76,
+      "humidity": 47.52,
+      "pressure": 991.7289,
+      "rssi": -55.3395
+    },
+    {
+      "temperature_1": 25,
+      "humidity": 48.39,
+      "pressure": 997.8924,
+      "rssi": -66.4102
+    },
+    {
+      "temperature_1": 24.34,
+      "humidity": 47.75,
+      "pressure": 990.8119,
+      "rssi": -73.3725
+    },
+    {
+      "temperature_1": 24.22,
+      "humidity": 47.02,
+      "pressure": 1009.1297,
+      "rssi": -72.113
+    },
+    {
+      "temperature_1": 24.38,
+      "humidity": 48.43,
+      "pressure": 996.4172,
+      "rssi": -71.727
+    },
+    {
+      "temperature_1": 21.38,
+      "humidity": 47.17,
+      "pressure": 990.5104,
+      "rssi": -65.3805
+    },
+    {
+      "temperature_1": 24.24,
+      "humidity": 47.14,
+      "pressure": 1007.848,
+      "rssi": -53.1982
+    },
+    {
+      "temperature_1": 22.28,
+      "humidity": 48.9,
+      "pressure": 997.1214,
+      "rssi": -96.0982
+    },
+    {
+      "temperature_1": 21.05,
+      "humidity": 48.83,
+      "pressure": 996.5235,
+      "rssi": -91.336
+    },
+    {
+      "temperature_1": 21.36,
+      "humidity": 48.26,
+      "pressure": 995.6614,
+      "rssi": -71.2007
+    },
+    {
+      "temperature_1": 20.77,
+      "humidity": 47.88,
+      "pressure": 1008.5632,
+      "rssi": -87.7774
+    },
+    {
+      "temperature_1": 20.83,
+      "humidity": 47.52,
+      "pressure": 995.8403,
+      "rssi": -57.4036
+    },
+    {
+      "temperature_1": 23.66,
+      "humidity": 47.38,
+      "pressure": 990.2021,
+      "rssi": -82.7343
+    },
+    {
+      "temperature_1": 21.85,
+      "humidity": 48.78,
+      "pressure": 997.5581,
+      "rssi": -83.3246
+    },
+    {
+      "temperature_1": 24.65,
+      "humidity": 47.61,
+      "pressure": 1002.595,
+      "rssi": -80.7688
+    },
+    {
+      "temperature_1": 22.46,
+      "humidity": 48.58,
+      "pressure": 1008.9829,
+      "rssi": -72.0097
+    },
+    {
+      "temperature_1": 21.38,
+      "humidity": 49.74,
+      "pressure": 1005.201,
+      "rssi": -92.9715
+    },
+    {
+      "temperature_1": 23,
+      "humidity": 47.74,
+      "pressure": 999.4677,
+      "rssi": -64.1485
+    },
+    {
+      "temperature_1": 22.79,
+      "humidity": 48.43,
+      "pressure": 993.0117,
+      "rssi": -88.0387
+    },
+    {
+      "temperature_1": 21.97,
+      "humidity": 45.54,
+      "pressure": 997.8876,
+      "rssi": -66.6652
+    },
+    {
+      "temperature_1": 22.24,
+      "humidity": 47.11,
+      "pressure": 993.2975,
+      "rssi": -64.6546
+    },
+    {
+      "temperature_1": 21.17,
+      "humidity": 46.34,
+      "pressure": 1008.0759,
+      "rssi": -96.681
+    },
+    {
+      "temperature_1": 21.24,
+      "humidity": 46.96,
+      "pressure": 999.6651,
+      "rssi": -81.0509
+    },
+    {
+      "temperature_1": 24.74,
+      "humidity": 48.91,
+      "pressure": 1001.0074,
+      "rssi": -55.3746
+    },
+    {
+      "temperature_1": 20.89,
+      "humidity": 48.04,
+      "pressure": 995.9297,
+      "rssi": -68.8669
+    },
+    {
+      "temperature_1": 20.54,
+      "humidity": 46.07,
+      "pressure": 998.3065,
+      "rssi": -92.1065
+    },
+    {
+      "temperature_1": 21.93,
+      "humidity": 48.4,
+      "pressure": 992.8377,
+      "rssi": -82.9479
+    },
+    {
+      "temperature_1": 20.7,
+      "humidity": 46.33,
+      "pressure": 1004.0692,
+      "rssi": -78.69
+    },
+    {
+      "temperature_1": 24.71,
+      "humidity": 46.32,
+      "pressure": 996.6974,
+      "rssi": -72.7381
+    },
+    {
+      "temperature_1": 25,
+      "humidity": 45.78,
+      "pressure": 998.404,
+      "rssi": -59.49
+    },
+    {
+      "temperature_1": 24.09,
+      "humidity": 46.25,
+      "pressure": 1009.6468,
+      "rssi": -94.1955
+    },
+    {
+      "temperature_1": 22.11,
+      "humidity": 47.77,
+      "pressure": 992.6089,
+      "rssi": -69.9811
+    },
+    {
+      "temperature_1": 22.79,
+      "humidity": 49.91,
+      "pressure": 1001.6226,
+      "rssi": -92.3617
+    },
+    {
+      "temperature_1": 22.81,
+      "humidity": 49.73,
+      "pressure": 991.8417,
+      "rssi": -82.4382
+    },
+    {
+      "temperature_1": 24.04,
+      "humidity": 48.16,
+      "pressure": 1004.0632,
+      "rssi": -72.0325
+    },
+    {
+      "temperature_1": 23.87,
+      "humidity": 46.55,
+      "pressure": 1006.9849,
+      "rssi": -53.7596
+    },
+    {
+      "temperature_1": 23.18,
+      "humidity": 48.15,
+      "pressure": 1004.5425,
+      "rssi": -86.2725
+    },
+    {
+      "temperature_1": 21.3,
+      "humidity": 45,
+      "pressure": 1002.1173,
+      "rssi": -58.3412
+    },
+    {
+      "temperature_1": 22.2,
+      "humidity": 47.09,
+      "pressure": 1005.6141,
+      "rssi": -84.2754
+    },
+    {
+      "temperature_1": 23.73,
+      "humidity": 49.46,
+      "pressure": 995.7479,
+      "rssi": -75.4077
+    },
+    {
+      "temperature_1": 24.1,
+      "humidity": 48.43,
+      "pressure": 999.1346,
+      "rssi": -93.5598
+    },
+    {
+      "temperature_1": 23.36,
+      "humidity": 45.22,
+      "pressure": 997.0839,
+      "rssi": -66.2513
+    },
+    {
+      "temperature_1": 24.28,
+      "humidity": 45.12,
+      "pressure": 996.7147,
+      "rssi": -52.5649
+    },
+    {
+      "temperature_1": 24.91,
+      "humidity": 48.89,
+      "pressure": 1001.0416,
+      "rssi": -74.2179
+    },
+    {
+      "temperature_1": 20.75,
+      "humidity": 45.18,
+      "pressure": 994.4575,
+      "rssi": -51.0506
+    },
+    {
+      "temperature_1": 24.03,
+      "humidity": 49.75,
+      "pressure": 994.3191,
+      "rssi": -60.5927
+    },
+    {
+      "temperature_1": 23.2,
+      "humidity": 49.42,
+      "pressure": 991.7096,
+      "rssi": -98.3356
+    },
+    {
+      "temperature_1": 20.8,
+      "humidity": 46.91,
+      "pressure": 1009.7531,
+      "rssi": -55.2439
+    },
+    {
+      "temperature_1": 21.6,
+      "humidity": 46.64,
+      "pressure": 1009.6706,
+      "rssi": -87.5151
+    },
+    {
+      "temperature_1": 23.13,
+      "humidity": 45.54,
+      "pressure": 998.6932,
+      "rssi": -67.8403
+    },
+    {
+      "temperature_1": 24.39,
+      "humidity": 46.17,
+      "pressure": 994.6698,
+      "rssi": -69.2784
+    },
+    {
+      "temperature_1": 21.06,
+      "humidity": 48.9,
+      "pressure": 1006.3336,
+      "rssi": -96.7125
+    },
+    {
+      "temperature_1": 21.94,
+      "humidity": 46.96,
+      "pressure": 990.0188,
+      "rssi": -81.2465
+    },
+    {
+      "temperature_1": 22.19,
+      "humidity": 47.78,
+      "pressure": 1006.4737,
+      "rssi": -77.1809
+    },
+    {
+      "temperature_1": 21.28,
+      "humidity": 49.08,
+      "pressure": 991.2385,
+      "rssi": -83.9388
+    },
+    {
+      "temperature_1": 24.03,
+      "humidity": 49.94,
+      "pressure": 1001.8578,
+      "rssi": -99.7785
+    },
+    {
+      "temperature_1": 23.12,
+      "humidity": 47.85,
+      "pressure": 1000.9011,
+      "rssi": -91.1169
+    },
+    {
+      "temperature_1": 22.4,
+      "humidity": 46.03,
+      "pressure": 1003.6682,
+      "rssi": -63.9309
+    },
+    {
+      "temperature_1": 20.56,
+      "humidity": 46.59,
+      "pressure": 996.7048,
+      "rssi": -56.776
+    },
+    {
+      "temperature_1": 24.39,
+      "humidity": 46.95,
+      "pressure": 1004.5936,
+      "rssi": -94.4734
+    },
+    {
+      "temperature_1": 23.92,
+      "humidity": 45.43,
+      "pressure": 990.4885,
+      "rssi": -97.826
+    },
+    {
+      "temperature_1": 24.16,
+      "humidity": 49.1,
+      "pressure": 1008.0449,
+      "rssi": -68.5963
+    },
+    {
+      "temperature_1": 22.41,
+      "humidity": 47.11,
+      "pressure": 1000.1643,
+      "rssi": -98.1305
+    },
+    {
+      "temperature_1": 24.02,
+      "humidity": 48.2,
+      "pressure": 1005.7526,
+      "rssi": -77.0511
+    },
+    {
+      "temperature_1": 24.59,
+      "humidity": 49.18,
+      "pressure": 1006.5294,
+      "rssi": -96.5319
+    },
+    {
+      "temperature_1": 21.12,
+      "humidity": 49.81,
+      "pressure": 1007.1563,
+      "rssi": -93.1748
+    },
+    {
+      "temperature_1": 24.33,
+      "humidity": 46.08,
+      "pressure": 1007.9047,
+      "rssi": -58.0982
+    },
+    {
+      "temperature_1": 23.9,
+      "humidity": 48.76,
+      "pressure": 1007.3365,
+      "rssi": -89.654
+    },
+    {
+      "temperature_1": 23.99,
+      "humidity": 46.68,
+      "pressure": 1005.0572,
+      "rssi": -53.5874
+    },
+    {
+      "temperature_1": 22.96,
+      "humidity": 45.31,
+      "pressure": 1007.35,
+      "rssi": -63.0264
+    },
+    {
+      "temperature_1": 23.11,
+      "humidity": 49.67,
+      "pressure": 1008.7127,
+      "rssi": -82.8528
+    },
+    {
+      "temperature_1": 22.1,
+      "humidity": 46.28,
+      "pressure": 1001.1727,
+      "rssi": -51.1471
+    },
+    {
+      "temperature_1": 23.01,
+      "humidity": 47.17,
+      "pressure": 1006.1167,
+      "rssi": -93.3213
+    },
+    {
+      "temperature_1": 24.44,
+      "humidity": 45.79,
+      "pressure": 994.6064,
+      "rssi": -95.3841
+    },
+    {
+      "temperature_1": 20.73,
+      "humidity": 48.6,
+      "pressure": 1000.2657,
+      "rssi": -98.6661
+    },
+    {
+      "temperature_1": 23.67,
+      "humidity": 49.01,
+      "pressure": 1009.5238,
+      "rssi": -90.0793
+    },
+    {
+      "temperature_1": 20.75,
+      "humidity": 49.92,
+      "pressure": 1008.5508,
+      "rssi": -79.4217
+    },
+    {
+      "temperature_1": 23.11,
+      "humidity": 49.5,
+      "pressure": 998.134,
+      "rssi": -81.9405
+    },
+    {
+      "temperature_1": 21.43,
+      "humidity": 48.78,
+      "pressure": 1009.7813,
+      "rssi": -92.1992
+    },
+    {
+      "temperature_1": 22.83,
+      "humidity": 46.21,
+      "pressure": 997.4002,
+      "rssi": -91.1184
+    },
+    {
+      "temperature_1": 22.61,
+      "humidity": 49.9,
+      "pressure": 993.6573,
+      "rssi": -89.7909
+    },
+    {
+      "temperature_1": 20.88,
+      "humidity": 49.81,
+      "pressure": 1004.7413,
+      "rssi": -82.9087
+    },
+    {
+      "temperature_1": 21.2,
+      "humidity": 49.39,
+      "pressure": 996.1813,
+      "rssi": -87.0329
+    },
+    {
+      "temperature_1": 21.58,
+      "humidity": 45.77,
+      "pressure": 1002.985,
+      "rssi": -67.3173
+    },
+    {
+      "temperature_1": 21.75,
+      "humidity": 49.06,
+      "pressure": 991.6851,
+      "rssi": -50.2919
+    },
+    {
+      "temperature_1": 20.17,
+      "humidity": 45.18,
+      "pressure": 1009.2117,
+      "rssi": -86.672
+    },
+    {
+      "temperature_1": 23.06,
+      "humidity": 47.28,
+      "pressure": 990.2424,
+      "rssi": -96.6935
+    },
+    {
+      "temperature_1": 21.04,
+      "humidity": 49.76,
+      "pressure": 993.4739,
+      "rssi": -57.9191
+    },
+    {
+      "temperature_1": 24.36,
+      "humidity": 48.71,
+      "pressure": 1009.0586,
+      "rssi": -80.5986
+    },
+    {
+      "temperature_1": 24.55,
+      "humidity": 45.37,
+      "pressure": 991.3812,
+      "rssi": -71.2154
+    },
+    {
+      "temperature_1": 21.94,
+      "humidity": 45.02,
+      "pressure": 1009.3791,
+      "rssi": -55.2782
+    },
+    {
+      "temperature_1": 22.99,
+      "humidity": 46.81,
+      "pressure": 1001.5049,
+      "rssi": -79.4072
+    },
+    {
+      "temperature_1": 20.01,
+      "humidity": 49.88,
+      "pressure": 1001.1805,
+      "rssi": -73.0881
+    },
+    {
+      "temperature_1": 24.32,
+      "humidity": 47.17,
+      "pressure": 1001.5252,
+      "rssi": -73.7192
+    },
+    {
+      "temperature_1": 24.64,
+      "humidity": 50,
+      "pressure": 1007.5141,
+      "rssi": -73.0766
+    },
+    {
+      "temperature_1": 24.35,
+      "humidity": 48.99,
+      "pressure": 997.8462,
+      "rssi": -97.3418
+    },
+    {
+      "temperature_1": 24.5,
+      "humidity": 45.27,
+      "pressure": 1007.2956,
+      "rssi": -51.9197
+    },
+    {
+      "temperature_1": 23.12,
+      "humidity": 45.44,
+      "pressure": 1005.9393,
+      "rssi": -71.2701
+    },
+    {
+      "temperature_1": 20.08,
+      "humidity": 47.36,
+      "pressure": 1009.2963,
+      "rssi": -80.8859
+    },
+    {
+      "temperature_1": 21.99,
+      "humidity": 47.32,
+      "pressure": 995.3687,
+      "rssi": -70.6371
+    },
+    {
+      "temperature_1": 21.41,
+      "humidity": 46.89,
+      "pressure": 998.4398,
+      "rssi": -91.6457
+    },
+    {
+      "temperature_1": 22.9,
+      "humidity": 46.64,
+      "pressure": 1002.1119,
+      "rssi": -75.2809
+    },
+    {
+      "temperature_1": 20.71,
+      "humidity": 49.15,
+      "pressure": 996.6771,
+      "rssi": -50.9999
+    },
+    {
+      "temperature_1": 24.8,
+      "humidity": 48.01,
+      "pressure": 993.6301,
+      "rssi": -92.0335
+    },
+    {
+      "temperature_1": 21.09,
+      "humidity": 49.23,
+      "pressure": 1003.4204,
+      "rssi": -79.2695
+    },
+    {
+      "temperature_1": 24.35,
+      "humidity": 47.87,
+      "pressure": 993.6541,
+      "rssi": -75.3953
+    },
+    {
+      "temperature_1": 20.77,
+      "humidity": 46.59,
+      "pressure": 997.7764,
+      "rssi": -74.0968
+    },
+    {
+      "temperature_1": 23.56,
+      "humidity": 48.29,
+      "pressure": 1007.3172,
+      "rssi": -85.3292
+    },
+    {
+      "temperature_1": 21.88,
+      "humidity": 46.42,
+      "pressure": 999.724,
+      "rssi": -73.5613
+    },
+    {
+      "temperature_1": 22.57,
+      "humidity": 47.13,
+      "pressure": 996.47,
+      "rssi": -55.7229
+    },
+    {
+      "temperature_1": 21.75,
+      "humidity": 45.71,
+      "pressure": 1007.5714,
+      "rssi": -81.887
+    },
+    {
+      "temperature_1": 20.71,
+      "humidity": 45.09,
+      "pressure": 999.7163,
+      "rssi": -91.8628
+    },
+    {
+      "temperature_1": 23.18,
+      "humidity": 49.37,
+      "pressure": 996.1388,
+      "rssi": -85.5816
+    },
+    {
+      "temperature_1": 24.76,
+      "humidity": 46.6,
+      "pressure": 1004.9827,
+      "rssi": -75.7696
+    },
+    {
+      "temperature_1": 24.01,
+      "humidity": 45.93,
+      "pressure": 1009.9058,
+      "rssi": -85.1975
+    },
+    {
+      "temperature_1": 24.11,
+      "humidity": 49.05,
+      "pressure": 990.3705,
+      "rssi": -75.0571
+    },
+    {
+      "temperature_1": 20.24,
+      "humidity": 47.15,
+      "pressure": 991.4555,
+      "rssi": -62.9565
+    },
+    {
+      "temperature_1": 21.32,
+      "humidity": 47.3,
+      "pressure": 999.2238,
+      "rssi": -52.193
+    },
+    {
+      "temperature_1": 24.34,
+      "humidity": 46.24,
+      "pressure": 1006.5856,
+      "rssi": -98.9621
+    },
+    {
+      "temperature_1": 21.44,
+      "humidity": 46.02,
+      "pressure": 1002.2886,
+      "rssi": -80.0826
+    },
+    {
+      "temperature_1": 22.41,
+      "humidity": 49.73,
+      "pressure": 1002.0283,
+      "rssi": -62.8538
+    },
+    {
+      "temperature_1": 20.72,
+      "humidity": 46.36,
+      "pressure": 997.5642,
+      "rssi": -97.5221
+    },
+    {
+      "temperature_1": 22.2,
+      "humidity": 48.09,
+      "pressure": 1003.3015,
+      "rssi": -64.885
+    },
+    {
+      "temperature_1": 21.94,
+      "humidity": 49.01,
+      "pressure": 1004.6152,
+      "rssi": -61.4574
+    },
+    {
+      "temperature_1": 20.98,
+      "humidity": 48.45,
+      "pressure": 997.4094,
+      "rssi": -98.8731
+    },
+    {
+      "temperature_1": 20.09,
+      "humidity": 49,
+      "pressure": 992.272,
+      "rssi": -85.9121
+    },
+    {
+      "temperature_1": 23.61,
+      "humidity": 46.74,
+      "pressure": 991.6152,
+      "rssi": -94.0656
+    },
+    {
+      "temperature_1": 20.84,
+      "humidity": 46.22,
+      "pressure": 1000.1443,
+      "rssi": -82.1199
+    },
+    {
+      "temperature_1": 21.38,
+      "humidity": 45.41,
+      "pressure": 1006.626,
+      "rssi": -57.7988
+    },
+    {
+      "temperature_1": 22.97,
+      "humidity": 47.94,
+      "pressure": 995.9937,
+      "rssi": -77.1323
+    },
+    {
+      "temperature_1": 22.27,
+      "humidity": 49.56,
+      "pressure": 995.8007,
+      "rssi": -50.2387
+    },
+    {
+      "temperature_1": 23.59,
+      "humidity": 48.54,
+      "pressure": 993.8111,
+      "rssi": -91.5268
+    },
+    {
+      "temperature_1": 22.32,
+      "humidity": 45.78,
+      "pressure": 1002.0238,
+      "rssi": -56.861
+    },
+    {
+      "temperature_1": 22.78,
+      "humidity": 45.32,
+      "pressure": 998.8183,
+      "rssi": -59.5183
+    },
+    {
+      "temperature_1": 23.63,
+      "humidity": 46.78,
+      "pressure": 991.9038,
+      "rssi": -78.6598
+    },
+    {
+      "temperature_1": 23.62,
+      "humidity": 48.03,
+      "pressure": 1002.1505,
+      "rssi": -94.7715
+    },
+    {
+      "temperature_1": 24.89,
+      "humidity": 49.29,
+      "pressure": 992.2063,
+      "rssi": -77.385
+    },
+    {
+      "temperature_1": 23.58,
+      "humidity": 48.63,
+      "pressure": 999.4024,
+      "rssi": -51.4982
+    },
+    {
+      "temperature_1": 23.65,
+      "humidity": 46.28,
+      "pressure": 990.155,
+      "rssi": -68.4538
+    },
+    {
+      "temperature_1": 22.02,
+      "humidity": 49.63,
+      "pressure": 994.1282,
+      "rssi": -83.3664
+    },
+    {
+      "temperature_1": 21.96,
+      "humidity": 48.56,
+      "pressure": 1009.4961,
+      "rssi": -54.8121
+    },
+    {
+      "temperature_1": 21.42,
+      "humidity": 45.4,
+      "pressure": 999.9044,
+      "rssi": -86.3141
+    },
+    {
+      "temperature_1": 21.72,
+      "humidity": 45.5,
+      "pressure": 1007.6705,
+      "rssi": -60.5755
+    },
+    {
+      "temperature_1": 22.73,
+      "humidity": 49.97,
+      "pressure": 1000.6769,
+      "rssi": -62.3399
+    },
+    {
+      "temperature_1": 21.5,
+      "humidity": 47.48,
+      "pressure": 995.0425,
+      "rssi": -62.7041
+    },
+    {
+      "temperature_1": 23.35,
+      "humidity": 49.49,
+      "pressure": 1009.2941,
+      "rssi": -58.6373
+    },
+    {
+      "temperature_1": 22.9,
+      "humidity": 49,
+      "pressure": 998.2961,
+      "rssi": -51.0525
+    },
+    {
+      "temperature_1": 21.55,
+      "humidity": 46.87,
+      "pressure": 993.779,
+      "rssi": -63.1996
+    },
+    {
+      "temperature_1": 20.82,
+      "humidity": 48.73,
+      "pressure": 991.2384,
+      "rssi": -65.0854
+    },
+    {
+      "temperature_1": 21.95,
+      "humidity": 49.72,
+      "pressure": 991.3187,
+      "rssi": -54.8676
+    },
+    {
+      "temperature_1": 24.34,
+      "humidity": 47.83,
+      "pressure": 992.6178,
+      "rssi": -98.2282
+    },
+    {
+      "temperature_1": 24.4,
+      "humidity": 45.05,
+      "pressure": 1006.394,
+      "rssi": -66.5128
+    },
+    {
+      "temperature_1": 24.52,
+      "humidity": 46.91,
+      "pressure": 1003.8944,
+      "rssi": -80.6569
+    },
+    {
+      "temperature_1": 24.44,
+      "humidity": 49.14,
+      "pressure": 1000.1709,
+      "rssi": -75.2785
+    },
+    {
+      "temperature_1": 23.82,
+      "humidity": 48.79,
+      "pressure": 999.9707,
+      "rssi": -63.7394
+    },
+    {
+      "temperature_1": 24.34,
+      "humidity": 48.02,
+      "pressure": 999.2008,
+      "rssi": -64.3283
+    },
+    {
+      "temperature_1": 22.89,
+      "humidity": 46.09,
+      "pressure": 996.1067,
+      "rssi": -89.7339
+    },
+    {
+      "temperature_1": 24.33,
+      "humidity": 49.13,
+      "pressure": 1000.4865,
+      "rssi": -63.1244
+    },
+    {
+      "temperature_1": 22.05,
+      "humidity": 46.75,
+      "pressure": 990.9905,
+      "rssi": -84.5292
+    },
+    {
+      "temperature_1": 22.23,
+      "humidity": 49.43,
+      "pressure": 1007.3881,
+      "rssi": -98.0735
+    },
+    {
+      "temperature_1": 23.15,
+      "humidity": 48.12,
+      "pressure": 992.3757,
+      "rssi": -63.5479
+    },
+    {
+      "temperature_1": 24.41,
+      "humidity": 47.66,
+      "pressure": 998.4331,
+      "rssi": -82.9533
+    },
+    {
+      "temperature_1": 24.38,
+      "humidity": 45.4,
+      "pressure": 990.7974,
+      "rssi": -59.6496
+    },
+    {
+      "temperature_1": 21.14,
+      "humidity": 47.19,
+      "pressure": 1005.5034,
+      "rssi": -56.1556
+    },
+    {
+      "temperature_1": 22.28,
+      "humidity": 48.64,
+      "pressure": 997.2208,
+      "rssi": -70.5001
+    },
+    {
+      "temperature_1": 21.36,
+      "humidity": 45.83,
+      "pressure": 990.8296,
+      "rssi": -77.2954
+    },
+    {
+      "temperature_1": 20.16,
+      "humidity": 47.62,
+      "pressure": 993.8966,
+      "rssi": -69.194
+    },
+    {
+      "temperature_1": 24.53,
+      "humidity": 47.24,
+      "pressure": 997.3386,
+      "rssi": -87.6492
+    },
+    {
+      "temperature_1": 21.41,
+      "humidity": 46.4,
+      "pressure": 999.6745,
+      "rssi": -84.2568
+    },
+    {
+      "temperature_1": 23.97,
+      "humidity": 46.29,
+      "pressure": 1000.8456,
+      "rssi": -89.4101
+    },
+    {
+      "temperature_1": 24.96,
+      "humidity": 47.26,
+      "pressure": 1000.8364,
+      "rssi": -54.925
+    },
+    {
+      "temperature_1": 20.17,
+      "humidity": 50,
+      "pressure": 997.5008,
+      "rssi": -53.34
+    },
+    {
+      "temperature_1": 23.88,
+      "humidity": 48.07,
+      "pressure": 991.7751,
+      "rssi": -73.121
+    },
+    {
+      "temperature_1": 20.97,
+      "humidity": 49.38,
+      "pressure": 995.5134,
+      "rssi": -53.1095
+    },
+    {
+      "temperature_1": 20.94,
+      "humidity": 45.48,
+      "pressure": 1006.1502,
+      "rssi": -67.668
+    },
+    {
+      "temperature_1": 20.84,
+      "humidity": 49.29,
+      "pressure": 992.2927,
+      "rssi": -95.6028
+    },
+    {
+      "temperature_1": 22.65,
+      "humidity": 46.68,
+      "pressure": 1007.2327,
+      "rssi": -98.676
+    },
+    {
+      "temperature_1": 20.33,
+      "humidity": 47.02,
+      "pressure": 996.7521,
+      "rssi": -75.9694
+    },
+    {
+      "temperature_1": 22.48,
+      "humidity": 46.07,
+      "pressure": 995.2335,
+      "rssi": -72.4852
+    },
+    {
+      "temperature_1": 21.4,
+      "humidity": 46.05,
+      "pressure": 1000.4125,
+      "rssi": -98.0526
+    },
+    {
+      "temperature_1": 22.67,
+      "humidity": 47.72,
+      "pressure": 994.1792,
+      "rssi": -62.5062
+    },
+    {
+      "temperature_1": 22.38,
+      "humidity": 46.6,
+      "pressure": 997.6884,
+      "rssi": -53.8016
+    },
+    {
+      "temperature_1": 23.53,
+      "humidity": 45.6,
+      "pressure": 997.2383,
+      "rssi": -51.8014
+    },
+    {
+      "temperature_1": 20.95,
+      "humidity": 47.54,
+      "pressure": 991.7429,
+      "rssi": -56.276
+    },
+    {
+      "temperature_1": 23.22,
+      "humidity": 49.15,
+      "pressure": 1005.0545,
+      "rssi": -93.9037
+    },
+    {
+      "temperature_1": 20.57,
+      "humidity": 47.13,
+      "pressure": 1005.6241,
+      "rssi": -51.1654
+    },
+    {
+      "temperature_1": 20.2,
+      "humidity": 47.39,
+      "pressure": 996.9406,
+      "rssi": -98.8916
+    },
+    {
+      "temperature_1": 22.75,
+      "humidity": 47.01,
+      "pressure": 995.0661,
+      "rssi": -61.7794
+    },
+    {
+      "temperature_1": 20.06,
+      "humidity": 47.25,
+      "pressure": 997.6719,
+      "rssi": -66.6246
+    },
+    {
+      "temperature_1": 20.06,
+      "humidity": 47.94,
+      "pressure": 990.5625,
+      "rssi": -58.0138
+    },
+    {
+      "temperature_1": 22.81,
+      "humidity": 48.36,
+      "pressure": 992.8292,
+      "rssi": -71.0154
+    },
+    {
+      "temperature_1": 20.23,
+      "humidity": 46.36,
+      "pressure": 1002.9996,
+      "rssi": -73.4957
+    },
+    {
+      "temperature_1": 23.25,
+      "humidity": 47.59,
+      "pressure": 998.7118,
+      "rssi": -59.7103
+    },
+    {
+      "temperature_1": 21.08,
+      "humidity": 45.02,
+      "pressure": 1001.4261,
+      "rssi": -56.396
+    },
+    {
+      "temperature_1": 21.87,
+      "humidity": 45.15,
+      "pressure": 1004.7442,
+      "rssi": -67.3775
+    },
+    {
+      "temperature_1": 22.55,
+      "humidity": 46.13,
+      "pressure": 1003.0122,
+      "rssi": -74.2182
+    },
+    {
+      "temperature_1": 24.62,
+      "humidity": 48.89,
+      "pressure": 994.571,
+      "rssi": -54.0548
+    },
+    {
+      "temperature_1": 24.4,
+      "humidity": 46.46,
+      "pressure": 993.5477,
+      "rssi": -57.3452
+    },
+    {
+      "temperature_1": 21.92,
+      "humidity": 47.13,
+      "pressure": 996.3159,
+      "rssi": -78.4517
+    },
+    {
+      "temperature_1": 24.98,
+      "humidity": 49,
+      "pressure": 1005.9421,
+      "rssi": -95.3354
+    },
+    {
+      "temperature_1": 21,
+      "humidity": 47.62,
+      "pressure": 1005.5753,
+      "rssi": -62.5464
+    },
+    {
+      "temperature_1": 21.19,
+      "humidity": 49.86,
+      "pressure": 1004.6495,
+      "rssi": -79.1416
+    },
+    {
+      "temperature_1": 21.13,
+      "humidity": 47.21,
+      "pressure": 1001.765,
+      "rssi": -68.3257
+    },
+    {
+      "temperature_1": 24.95,
+      "humidity": 47.39,
+      "pressure": 996.9568,
+      "rssi": -62.6844
+    },
+    {
+      "temperature_1": 23.36,
+      "humidity": 47.49,
+      "pressure": 990.1326,
+      "rssi": -93.3099
+    },
+    {
+      "temperature_1": 20.24,
+      "humidity": 49.2,
+      "pressure": 991.1136,
+      "rssi": -99.9895
+    },
+    {
+      "temperature_1": 21.78,
+      "humidity": 47.24,
+      "pressure": 1008.1838,
+      "rssi": -82.3539
+    },
+    {
+      "temperature_1": 22.07,
+      "humidity": 48.37,
+      "pressure": 1009.7849,
+      "rssi": -99.2066
+    },
+    {
+      "temperature_1": 20.36,
+      "humidity": 49.66,
+      "pressure": 1003.7283,
+      "rssi": -83.2503
+    },
+    {
+      "temperature_1": 23.21,
+      "humidity": 48.58,
+      "pressure": 1001.4702,
+      "rssi": -97.2678
+    },
+    {
+      "temperature_1": 20.68,
+      "humidity": 45.72,
+      "pressure": 1007.1972,
+      "rssi": -98.9654
+    },
+    {
+      "temperature_1": 22.67,
+      "humidity": 47.31,
+      "pressure": 990.6147,
+      "rssi": -92.4757
+    },
+    {
+      "temperature_1": 21.18,
+      "humidity": 46.71,
+      "pressure": 993.9983,
+      "rssi": -69.9887
+    },
+    {
+      "temperature_1": 22.37,
+      "humidity": 45.55,
+      "pressure": 1006.0433,
+      "rssi": -52.7102
+    },
+    {
+      "temperature_1": 23.9,
+      "humidity": 47.67,
+      "pressure": 1002.241,
+      "rssi": -57.0235
+    },
+    {
+      "temperature_1": 24.98,
+      "humidity": 49.83,
+      "pressure": 998.6907,
+      "rssi": -74.2366
+    },
+    {
+      "temperature_1": 22.39,
+      "humidity": 49.66,
+      "pressure": 1005.4576,
+      "rssi": -91.0007
+    },
+    {
+      "temperature_1": 22.95,
+      "humidity": 48.19,
+      "pressure": 999.4545,
+      "rssi": -52.7131
+    },
+    {
+      "temperature_1": 21.51,
+      "humidity": 47.56,
+      "pressure": 997.3852,
+      "rssi": -58.9206
+    },
+    {
+      "temperature_1": 24.04,
+      "humidity": 47,
+      "pressure": 990.8488,
+      "rssi": -50.6506
+    },
+    {
+      "temperature_1": 22.26,
+      "humidity": 48.63,
+      "pressure": 997.6754,
+      "rssi": -64.9802
+    },
+    {
+      "temperature_1": 21.13,
+      "humidity": 46.54,
+      "pressure": 993.6698,
+      "rssi": -64.0812
+    },
+    {
+      "temperature_1": 21.06,
+      "humidity": 49.32,
+      "pressure": 992.2687,
+      "rssi": -56.17
+    },
+    {
+      "temperature_1": 23.41,
+      "humidity": 47.95,
+      "pressure": 1008.048,
+      "rssi": -57.8574
+    },
+    {
+      "temperature_1": 20.17,
+      "humidity": 49,
+      "pressure": 1002.901,
+      "rssi": -93.0672
+    },
+    {
+      "temperature_1": 24.07,
+      "humidity": 48.29,
+      "pressure": 995.4993,
+      "rssi": -89.3023
+    },
+    {
+      "temperature_1": 23.54,
+      "humidity": 45.98,
+      "pressure": 991.4923,
+      "rssi": -79.1452
+    },
+    {
+      "temperature_1": 23.45,
+      "humidity": 48.65,
+      "pressure": 1002.6169,
+      "rssi": -57.1651
+    },
+    {
+      "temperature_1": 23.6,
+      "humidity": 45.49,
+      "pressure": 1004.0251,
+      "rssi": -83.52
+    },
+    {
+      "temperature_1": 21.88,
+      "humidity": 47.53,
+      "pressure": 997.769,
+      "rssi": -72.9975
+    },
+    {
+      "temperature_1": 24.68,
+      "humidity": 47.15,
+      "pressure": 990.1958,
+      "rssi": -59.9223
+    },
+    {
+      "temperature_1": 21.69,
+      "humidity": 48.72,
+      "pressure": 1007.584,
+      "rssi": -58.7821
+    },
+    {
+      "temperature_1": 24.24,
+      "humidity": 46.88,
+      "pressure": 993.8413,
+      "rssi": -83.9538
+    },
+    {
+      "temperature_1": 21.38,
+      "humidity": 47.21,
+      "pressure": 998.6816,
+      "rssi": -61.1342
+    },
+    {
+      "temperature_1": 24.07,
+      "humidity": 48.54,
+      "pressure": 1005.1256,
+      "rssi": -96.8075
+    },
+    {
+      "temperature_1": 23.54,
+      "humidity": 48.54,
+      "pressure": 1008.9283,
+      "rssi": -60.2285
+    },
+    {
+      "temperature_1": 20.74,
+      "humidity": 49.13,
+      "pressure": 1008.923,
+      "rssi": -57.6552
+    },
+    {
+      "temperature_1": 22.35,
+      "humidity": 49.04,
+      "pressure": 992.7962,
+      "rssi": -64.2125
+    },
+    {
+      "temperature_1": 20.32,
+      "humidity": 47.75,
+      "pressure": 995.584,
+      "rssi": -50.5464
+    },
+    {
+      "temperature_1": 22.78,
+      "humidity": 46.18,
+      "pressure": 990.2546,
+      "rssi": -87.8821
+    },
+    {
+      "temperature_1": 20.55,
+      "humidity": 48.82,
+      "pressure": 994.0484,
+      "rssi": -66.8895
+    },
+    {
+      "temperature_1": 20.2,
+      "humidity": 49.88,
+      "pressure": 1005.6866,
+      "rssi": -94.6783
+    },
+    {
+      "temperature_1": 21.43,
+      "humidity": 46.1,
+      "pressure": 1005.2144,
+      "rssi": -69.0625
+    },
+    {
+      "temperature_1": 24.52,
+      "humidity": 48.89,
+      "pressure": 1005.05,
+      "rssi": -69.4317
+    },
+    {
+      "temperature_1": 24.31,
+      "humidity": 47.43,
+      "pressure": 993.1256,
+      "rssi": -73.6318
+    },
+    {
+      "temperature_1": 23.42,
+      "humidity": 45.45,
+      "pressure": 1006.4401,
+      "rssi": -65.3958
+    },
+    {
+      "temperature_1": 22.04,
+      "humidity": 48.82,
+      "pressure": 994.1149,
+      "rssi": -90.0978
+    },
+    {
+      "temperature_1": 20.87,
+      "humidity": 45.76,
+      "pressure": 997.7091,
+      "rssi": -73.9762
+    },
+    {
+      "temperature_1": 23.89,
+      "humidity": 46.2,
+      "pressure": 998.8275,
+      "rssi": -59.7414
+    },
+    {
+      "temperature_1": 24.53,
+      "humidity": 49.22,
+      "pressure": 997.4408,
+      "rssi": -62.9221
+    },
+    {
+      "temperature_1": 23.92,
+      "humidity": 45.61,
+      "pressure": 999.8476,
+      "rssi": -83.4281
+    },
+    {
+      "temperature_1": 22.6,
+      "humidity": 48.89,
+      "pressure": 1005.4592,
+      "rssi": -68.3257
+    },
+    {
+      "temperature_1": 22.83,
+      "humidity": 49.35,
+      "pressure": 997.9726,
+      "rssi": -64.1483
+    },
+    {
+      "temperature_1": 22.64,
+      "humidity": 49.95,
+      "pressure": 1005.2889,
+      "rssi": -61.3054
+    },
+    {
+      "temperature_1": 23.15,
+      "humidity": 45.14,
+      "pressure": 995.2601,
+      "rssi": -97.7428
+    },
+    {
+      "temperature_1": 21.05,
+      "humidity": 49.28,
+      "pressure": 1005.3757,
+      "rssi": -59.4932
+    },
+    {
+      "temperature_1": 24.51,
+      "humidity": 48.85,
+      "pressure": 1000.509,
+      "rssi": -55.4723
+    },
+    {
+      "temperature_1": 23.64,
+      "humidity": 47.33,
+      "pressure": 994.8036,
+      "rssi": -88.9767
+    },
+    {
+      "temperature_1": 20.16,
+      "humidity": 49.62,
+      "pressure": 999.4907,
+      "rssi": -67.1877
+    },
+    {
+      "temperature_1": 22.49,
+      "humidity": 49.86,
+      "pressure": 993.6661,
+      "rssi": -63.0926
+    },
+    {
+      "temperature_1": 23.61,
+      "humidity": 45.76,
+      "pressure": 996.9871,
+      "rssi": -53.6549
+    },
+    {
+      "temperature_1": 23.53,
+      "humidity": 48.44,
+      "pressure": 1004.3074,
+      "rssi": -89.9303
+    },
+    {
+      "temperature_1": 20.26,
+      "humidity": 46.2,
+      "pressure": 998.324,
+      "rssi": -68.4704
+    },
+    {
+      "temperature_1": 22.86,
+      "humidity": 45.74,
+      "pressure": 1009.5668,
+      "rssi": -94.6371
+    },
+    {
+      "temperature_1": 24.89,
+      "humidity": 48.7,
+      "pressure": 1005.7552,
+      "rssi": -72.8017
+    },
+    {
+      "temperature_1": 20.33,
+      "humidity": 49.5,
+      "pressure": 992.7924,
+      "rssi": -80.8524
+    },
+    {
+      "temperature_1": 23.84,
+      "humidity": 48.09,
+      "pressure": 994.4581,
+      "rssi": -50.9332
+    },
+    {
+      "temperature_1": 20.37,
+      "humidity": 49.95,
+      "pressure": 1004.0485,
+      "rssi": -65.553
+    },
+    {
+      "temperature_1": 20.18,
+      "humidity": 49.12,
+      "pressure": 1003.3429,
+      "rssi": -87.1494
+    },
+    {
+      "temperature_1": 23.14,
+      "humidity": 46.75,
+      "pressure": 1004.4736,
+      "rssi": -74.3294
+    },
+    {
+      "temperature_1": 22.89,
+      "humidity": 45.94,
+      "pressure": 996.3893,
+      "rssi": -89.928
+    },
+    {
+      "temperature_1": 22.96,
+      "humidity": 47.53,
+      "pressure": 1004.59,
+      "rssi": -68.262
+    },
+    {
+      "temperature_1": 22.52,
+      "humidity": 48.91,
+      "pressure": 994.4246,
+      "rssi": -50.786
+    },
+    {
+      "temperature_1": 24.65,
+      "humidity": 47.48,
+      "pressure": 1007.4077,
+      "rssi": -67.2982
+    },
+    {
+      "temperature_1": 24.86,
+      "humidity": 46.95,
+      "pressure": 994.7114,
+      "rssi": -94.999
+    },
+    {
+      "temperature_1": 22.16,
+      "humidity": 45.79,
+      "pressure": 1000.2166,
+      "rssi": -60.4073
+    },
+    {
+      "temperature_1": 22.61,
+      "humidity": 45.12,
+      "pressure": 991.7664,
+      "rssi": -83.4861
+    },
+    {
+      "temperature_1": 24.6,
+      "humidity": 45.82,
+      "pressure": 998.8614,
+      "rssi": -81.5242
+    },
+    {
+      "temperature_1": 22.97,
+      "humidity": 48.07,
+      "pressure": 995.579,
+      "rssi": -78.5578
+    },
+    {
+      "temperature_1": 20.81,
+      "humidity": 45.98,
+      "pressure": 990.207,
+      "rssi": -88.5713
+    },
+    {
+      "temperature_1": 21.93,
+      "humidity": 47.22,
+      "pressure": 1005.2869,
+      "rssi": -78.9469
+    },
+    {
+      "temperature_1": 22.33,
+      "humidity": 47.74,
+      "pressure": 997.6102,
+      "rssi": -83.1252
+    },
+    {
+      "temperature_1": 22.37,
+      "humidity": 47.91,
+      "pressure": 1000.8963,
+      "rssi": -76.011
+    },
+    {
+      "temperature_1": 22.58,
+      "humidity": 46.99,
+      "pressure": 997.9096,
+      "rssi": -99.8452
+    },
+    {
+      "temperature_1": 24.3,
+      "humidity": 49.59,
+      "pressure": 1009.881,
+      "rssi": -72.8451
+    },
+    {
+      "temperature_1": 20.48,
+      "humidity": 48.78,
+      "pressure": 1007.7788,
+      "rssi": -98.3037
+    },
+    {
+      "temperature_1": 24.32,
+      "humidity": 49.86,
+      "pressure": 1003.0755,
+      "rssi": -58.9579
+    },
+    {
+      "temperature_1": 23.18,
+      "humidity": 45.13,
+      "pressure": 1001.5304,
+      "rssi": -99.5845
+    },
+    {
+      "temperature_1": 22.52,
+      "humidity": 45.07,
+      "pressure": 1004.563,
+      "rssi": -88.5985
+    },
+    {
+      "temperature_1": 22.45,
+      "humidity": 46.46,
+      "pressure": 990.1768,
+      "rssi": -60.6575
+    },
+    {
+      "temperature_1": 22.36,
+      "humidity": 45.42,
+      "pressure": 1007.9453,
+      "rssi": -51.6167
+    },
+    {
+      "temperature_1": 24.84,
+      "humidity": 46.31,
+      "pressure": 991.5396,
+      "rssi": -88.6604
+    },
+    {
+      "temperature_1": 21.11,
+      "humidity": 46.52,
+      "pressure": 995.9255,
+      "rssi": -70.4777
+    },
+    {
+      "temperature_1": 24.78,
+      "humidity": 45.55,
+      "pressure": 995.4559,
+      "rssi": -58.2654
+    },
+    {
+      "temperature_1": 23.63,
+      "humidity": 45.13,
+      "pressure": 997.1623,
+      "rssi": -59.2617
+    },
+    {
+      "temperature_1": 22.96,
+      "humidity": 47.75,
+      "pressure": 994.6248,
+      "rssi": -66.097
+    },
+    {
+      "temperature_1": 23.12,
+      "humidity": 46.99,
+      "pressure": 992.5812,
+      "rssi": -83.189
+    },
+    {
+      "temperature_1": 23.73,
+      "humidity": 47.37,
+      "pressure": 1002.8811,
+      "rssi": -86.3186
+    },
+    {
+      "temperature_1": 22.12,
+      "humidity": 46.53,
+      "pressure": 1005.7003,
+      "rssi": -81.7074
+    },
+    {
+      "temperature_1": 22.16,
+      "humidity": 49.32,
+      "pressure": 997.3096,
+      "rssi": -74.7121
+    },
+    {
+      "temperature_1": 22.21,
+      "humidity": 47.84,
+      "pressure": 992.8241,
+      "rssi": -60.0827
+    },
+    {
+      "temperature_1": 21.31,
+      "humidity": 48.67,
+      "pressure": 994.5642,
+      "rssi": -95.1586
+    },
+    {
+      "temperature_1": 21.57,
+      "humidity": 45.02,
+      "pressure": 994.3907,
+      "rssi": -76.838
+    },
+    {
+      "temperature_1": 24.23,
+      "humidity": 46.48,
+      "pressure": 1005.6663,
+      "rssi": -64.4631
+    },
+    {
+      "temperature_1": 21.9,
+      "humidity": 49.24,
+      "pressure": 1002.897,
+      "rssi": -74.8052
+    },
+    {
+      "temperature_1": 24.3,
+      "humidity": 45.26,
+      "pressure": 997.5279,
+      "rssi": -88.7875
+    },
+    {
+      "temperature_1": 20.19,
+      "humidity": 45.62,
+      "pressure": 1002.4287,
+      "rssi": -96.044
+    },
+    {
+      "temperature_1": 21.28,
+      "humidity": 47.47,
+      "pressure": 999.5549,
+      "rssi": -61.0972
+    },
+    {
+      "temperature_1": 21.6,
+      "humidity": 45.1,
+      "pressure": 1009.5673,
+      "rssi": -97.5504
+    },
+    {
+      "temperature_1": 21.79,
+      "humidity": 48.29,
+      "pressure": 1008.2131,
+      "rssi": -94.0289
+    },
+    {
+      "temperature_1": 24.3,
+      "humidity": 49.31,
+      "pressure": 1000.2215,
+      "rssi": -57.0279
+    },
+    {
+      "temperature_1": 24.04,
+      "humidity": 45.46,
+      "pressure": 992.3667,
+      "rssi": -53.6409
+    },
+    {
+      "temperature_1": 22.51,
+      "humidity": 45.14,
+      "pressure": 1009.0251,
+      "rssi": -56.4096
+    },
+    {
+      "temperature_1": 20.3,
+      "humidity": 45.4,
+      "pressure": 1003.6548,
+      "rssi": -65.9337
+    },
+    {
+      "temperature_1": 22.34,
+      "humidity": 45.54,
+      "pressure": 1003.5345,
+      "rssi": -85.284
+    },
+    {
+      "temperature_1": 24.42,
+      "humidity": 48.32,
+      "pressure": 994.9861,
+      "rssi": -67.4924
+    },
+    {
+      "temperature_1": 21.61,
+      "humidity": 49.8,
+      "pressure": 999.5059,
+      "rssi": -64.953
+    },
+    {
+      "temperature_1": 24.41,
+      "humidity": 46.61,
+      "pressure": 1009.5338,
+      "rssi": -70.902
+    },
+    {
+      "temperature_1": 23.11,
+      "humidity": 48.81,
+      "pressure": 993.7587,
+      "rssi": -52.8503
+    },
+    {
+      "temperature_1": 22.65,
+      "humidity": 49.67,
+      "pressure": 1006.6365,
+      "rssi": -56.9898
+    },
+    {
+      "temperature_1": 21.02,
+      "humidity": 47.09,
+      "pressure": 991.8315,
+      "rssi": -75.0925
+    },
+    {
+      "temperature_1": 21.66,
+      "humidity": 46.16,
+      "pressure": 1003.9819,
+      "rssi": -70.7908
+    },
+    {
+      "temperature_1": 21.28,
+      "humidity": 45.53,
+      "pressure": 991.5188,
+      "rssi": -56.8803
+    },
+    {
+      "temperature_1": 24.08,
+      "humidity": 47.09,
+      "pressure": 1004.1805,
+      "rssi": -59.8603
+    },
+    {
+      "temperature_1": 20.34,
+      "humidity": 48.14,
+      "pressure": 990.6368,
+      "rssi": -53.7616
+    },
+    {
+      "temperature_1": 20.87,
+      "humidity": 48.58,
+      "pressure": 1004.9799,
+      "rssi": -72.6965
+    },
+    {
+      "temperature_1": 23.35,
+      "humidity": 46.34,
+      "pressure": 998.4627,
+      "rssi": -53.5922
+    },
+    {
+      "temperature_1": 23.96,
+      "humidity": 45.17,
+      "pressure": 991.2975,
+      "rssi": -81.7127
+    },
+    {
+      "temperature_1": 21.12,
+      "humidity": 47.36,
+      "pressure": 998.6497,
+      "rssi": -80.4522
+    },
+    {
+      "temperature_1": 24.32,
+      "humidity": 46.93,
+      "pressure": 998.7663,
+      "rssi": -61.5934
+    },
+    {
+      "temperature_1": 20.36,
+      "humidity": 48.61,
+      "pressure": 995.4315,
+      "rssi": -97.1749
+    },
+    {
+      "temperature_1": 23.84,
+      "humidity": 49.07,
+      "pressure": 990.5533,
+      "rssi": -53.0959
+    },
+    {
+      "temperature_1": 21.92,
+      "humidity": 47.49,
+      "pressure": 1002.6451,
+      "rssi": -67.3404
+    },
+    {
+      "temperature_1": 24.16,
+      "humidity": 45,
+      "pressure": 991.7206,
+      "rssi": -93.9463
+    },
+    {
+      "temperature_1": 22.57,
+      "humidity": 49.07,
+      "pressure": 998.7564,
+      "rssi": -76.322
+    },
+    {
+      "temperature_1": 22.09,
+      "humidity": 48.2,
+      "pressure": 994.9055,
+      "rssi": -87.0963
+    },
+    {
+      "temperature_1": 20.9,
+      "humidity": 45.53,
+      "pressure": 995.9714,
+      "rssi": -52.8144
+    },
+    {
+      "temperature_1": 20.62,
+      "humidity": 48.32,
+      "pressure": 1000.0419,
+      "rssi": -74.8325
+    },
+    {
+      "temperature_1": 22.5,
+      "humidity": 48.77,
+      "pressure": 1000.8583,
+      "rssi": -86.8145
+    },
+    {
+      "temperature_1": 20.45,
+      "humidity": 49.97,
+      "pressure": 1005.6014,
+      "rssi": -71.7149
+    },
+    {
+      "temperature_1": 21.08,
+      "humidity": 47.66,
+      "pressure": 997.7438,
+      "rssi": -99.2653
+    },
+    {
+      "temperature_1": 21.2,
+      "humidity": 48.04,
+      "pressure": 992.0666,
+      "rssi": -94.6345
+    },
+    {
+      "temperature_1": 24.07,
+      "humidity": 45.64,
+      "pressure": 996.8181,
+      "rssi": -85.927
+    },
+    {
+      "temperature_1": 23.41,
+      "humidity": 47.83,
+      "pressure": 996.0865,
+      "rssi": -64.8197
+    },
+    {
+      "temperature_1": 22.16,
+      "humidity": 48.53,
+      "pressure": 996.6409,
+      "rssi": -81.8657
+    },
+    {
+      "temperature_1": 23.32,
+      "humidity": 47.83,
+      "pressure": 991.5893,
+      "rssi": -62.5796
+    },
+    {
+      "temperature_1": 23.28,
+      "humidity": 45.51,
+      "pressure": 994.8513,
+      "rssi": -78.9765
+    },
+    {
+      "temperature_1": 23.43,
+      "humidity": 46.92,
+      "pressure": 991.5328,
+      "rssi": -52.7301
+    },
+    {
+      "temperature_1": 21.46,
+      "humidity": 48,
+      "pressure": 1001.4142,
+      "rssi": -77.9658
+    },
+    {
+      "temperature_1": 24.99,
+      "humidity": 48.27,
+      "pressure": 998.8736,
+      "rssi": -83.5854
+    },
+    {
+      "temperature_1": 22.13,
+      "humidity": 45.61,
+      "pressure": 1003.0492,
+      "rssi": -62.7334
+    },
+    {
+      "temperature_1": 22.06,
+      "humidity": 47.87,
+      "pressure": 1001.9052,
+      "rssi": -94.7112
+    },
+    {
+      "temperature_1": 23.76,
+      "humidity": 46.55,
+      "pressure": 1005.7342,
+      "rssi": -59.8793
+    },
+    {
+      "temperature_1": 22.41,
+      "humidity": 48.61,
+      "pressure": 992.3317,
+      "rssi": -84.8755
+    },
+    {
+      "temperature_1": 22.49,
+      "humidity": 46.62,
+      "pressure": 1007.5971,
+      "rssi": -74.4395
+    },
+    {
+      "temperature_1": 21.24,
+      "humidity": 47.01,
+      "pressure": 1003.1207,
+      "rssi": -72.4162
+    },
+    {
+      "temperature_1": 24.83,
+      "humidity": 48.68,
+      "pressure": 992.5504,
+      "rssi": -66.3657
+    },
+    {
+      "temperature_1": 21.2,
+      "humidity": 47.28,
+      "pressure": 994.037,
+      "rssi": -97.3519
+    },
+    {
+      "temperature_1": 22.22,
+      "humidity": 49.48,
+      "pressure": 999.0486,
+      "rssi": -63.0899
+    },
+    {
+      "temperature_1": 23.81,
+      "humidity": 49.4,
+      "pressure": 998.5473,
+      "rssi": -64.9479
+    },
+    {
+      "temperature_1": 20.83,
+      "humidity": 46.7,
+      "pressure": 991.0507,
+      "rssi": -70.938
+    },
+    {
+      "temperature_1": 21.64,
+      "humidity": 45.66,
+      "pressure": 990.6307,
+      "rssi": -92.0956
+    },
+    {
+      "temperature_1": 22.43,
+      "humidity": 49.43,
+      "pressure": 1007.4146,
+      "rssi": -62.7002
+    },
+    {
+      "temperature_1": 24.6,
+      "humidity": 49.52,
+      "pressure": 1002.7912,
+      "rssi": -65.5025
+    },
+    {
+      "temperature_1": 21.1,
+      "humidity": 45.32,
+      "pressure": 1004.6839,
+      "rssi": -88.0338
+    },
+    {
+      "temperature_1": 24.21,
+      "humidity": 47.17,
+      "pressure": 998.5609,
+      "rssi": -61.9344
+    },
+    {
+      "temperature_1": 20.2,
+      "humidity": 49.78,
+      "pressure": 990.5154,
+      "rssi": -75.1197
+    },
+    {
+      "temperature_1": 24.95,
+      "humidity": 45.19,
+      "pressure": 994.6286,
+      "rssi": -94.1423
+    },
+    {
+      "temperature_1": 22.75,
+      "humidity": 45.17,
+      "pressure": 1000.3106,
+      "rssi": -95.2463
+    },
+    {
+      "temperature_1": 20.68,
+      "humidity": 45.78,
+      "pressure": 991.2262,
+      "rssi": -57.4932
+    },
+    {
+      "temperature_1": 20.26,
+      "humidity": 46.13,
+      "pressure": 1003.3116,
+      "rssi": -89.7026
+    },
+    {
+      "temperature_1": 24.72,
+      "humidity": 48,
+      "pressure": 997.3858,
+      "rssi": -95.9867
+    },
+    {
+      "temperature_1": 22.11,
+      "humidity": 49.07,
+      "pressure": 1001.0884,
+      "rssi": -98.1808
+    },
+    {
+      "temperature_1": 22.85,
+      "humidity": 47.9,
+      "pressure": 1007.6986,
+      "rssi": -69.2147
+    },
+    {
+      "temperature_1": 21.98,
+      "humidity": 48.39,
+      "pressure": 995.6334,
+      "rssi": -55.5886
+    },
+    {
+      "temperature_1": 21.16,
+      "humidity": 47.58,
+      "pressure": 993.4106,
+      "rssi": -78.3591
+    },
+    {
+      "temperature_1": 21.15,
+      "humidity": 47.4,
+      "pressure": 1008.5556,
+      "rssi": -50.1085
+    },
+    {
+      "temperature_1": 20.89,
+      "humidity": 46.85,
+      "pressure": 1008.3738,
+      "rssi": -73.9115
+    },
+    {
+      "temperature_1": 23.73,
+      "humidity": 48,
+      "pressure": 1001.6209,
+      "rssi": -61.4873
+    },
+    {
+      "temperature_1": 22.7,
+      "humidity": 45.32,
+      "pressure": 995.9446,
+      "rssi": -90.0621
+    },
+    {
+      "temperature_1": 24.04,
+      "humidity": 48.81,
+      "pressure": 1009.3775,
+      "rssi": -75.1998
+    },
+    {
+      "temperature_1": 22.77,
+      "humidity": 49.26,
+      "pressure": 1002.2502,
+      "rssi": -88.3395
+    },
+    {
+      "temperature_1": 24.14,
+      "humidity": 47.94,
+      "pressure": 993.7725,
+      "rssi": -66.1341
+    },
+    {
+      "temperature_1": 24.52,
+      "humidity": 47.43,
+      "pressure": 1004.0094,
+      "rssi": -93.3599
+    },
+    {
+      "temperature_1": 22.54,
+      "humidity": 48.73,
+      "pressure": 996.4773,
+      "rssi": -94.9065
+    },
+    {
+      "temperature_1": 24.84,
+      "humidity": 47.22,
+      "pressure": 996.0325,
+      "rssi": -71.6451
+    },
+    {
+      "temperature_1": 20.73,
+      "humidity": 45.99,
+      "pressure": 991.1621,
+      "rssi": -71.1568
+    },
+    {
+      "temperature_1": 21.01,
+      "humidity": 45.59,
+      "pressure": 995.2869,
+      "rssi": -93.4513
+    },
+    {
+      "temperature_1": 20.32,
+      "humidity": 45.71,
+      "pressure": 994.3948,
+      "rssi": -92.6969
+    },
+    {
+      "temperature_1": 21.31,
+      "humidity": 49.75,
+      "pressure": 998.6878,
+      "rssi": -51.258
+    },
+    {
+      "temperature_1": 24.03,
+      "humidity": 46.68,
+      "pressure": 997.8185,
+      "rssi": -83.8379
+    },
+    {
+      "temperature_1": 20,
+      "humidity": 49.16,
+      "pressure": 1005.3471,
+      "rssi": -54.2162
+    },
+    {
+      "temperature_1": 21,
+      "humidity": 47.45,
+      "pressure": 1007.5833,
+      "rssi": -64.8013
+    },
+    {
+      "temperature_1": 22.82,
+      "humidity": 45.67,
+      "pressure": 999.0394,
+      "rssi": -52.5845
+    },
+    {
+      "temperature_1": 23.65,
+      "humidity": 46.79,
+      "pressure": 997.0262,
+      "rssi": -91.7533
+    },
+    {
+      "temperature_1": 21.91,
+      "humidity": 45.31,
+      "pressure": 991.6765,
+      "rssi": -77.6466
+    },
+    {
+      "temperature_1": 24.74,
+      "humidity": 49.87,
+      "pressure": 1004.9408,
+      "rssi": -69.0174
+    },
+    {
+      "temperature_1": 23.72,
+      "humidity": 46.8,
+      "pressure": 1009.3263,
+      "rssi": -76.6667
+    },
+    {
+      "temperature_1": 22.64,
+      "humidity": 45.36,
+      "pressure": 997.1379,
+      "rssi": -71.4049
+    },
+    {
+      "temperature_1": 21.53,
+      "humidity": 48.47,
+      "pressure": 996.0591,
+      "rssi": -93.9365
+    },
+    {
+      "temperature_1": 20.25,
+      "humidity": 46.85,
+      "pressure": 1003.6188,
+      "rssi": -65.214
+    },
+    {
+      "temperature_1": 20.74,
+      "humidity": 48.81,
+      "pressure": 1001.6401,
+      "rssi": -65.1217
+    },
+    {
+      "temperature_1": 22,
+      "humidity": 48.3,
+      "pressure": 995.8221,
+      "rssi": -85.9294
+    },
+    {
+      "temperature_1": 20.94,
+      "humidity": 47.27,
+      "pressure": 997.2545,
+      "rssi": -90.9664
+    },
+    {
+      "temperature_1": 20.52,
+      "humidity": 49.33,
+      "pressure": 1002.3478,
+      "rssi": -82.484
+    },
+    {
+      "temperature_1": 23.82,
+      "humidity": 48.07,
+      "pressure": 1001.9827,
+      "rssi": -81.4216
+    },
+    {
+      "temperature_1": 23.64,
+      "humidity": 46.03,
+      "pressure": 990.9426,
+      "rssi": -66.5509
+    },
+    {
+      "temperature_1": 20.22,
+      "humidity": 48.56,
+      "pressure": 998.3644,
+      "rssi": -78.3094
+    },
+    {
+      "temperature_1": 20.21,
+      "humidity": 45.15,
+      "pressure": 994.2695,
+      "rssi": -80.03
+    },
+    {
+      "temperature_1": 21.55,
+      "humidity": 45.97,
+      "pressure": 999.8839,
+      "rssi": -98.1645
+    },
+    {
+      "temperature_1": 20.53,
+      "humidity": 46.9,
+      "pressure": 994.6317,
+      "rssi": -73.5077
+    },
+    {
+      "temperature_1": 22.34,
+      "humidity": 48.85,
+      "pressure": 996.0625,
+      "rssi": -89.6858
+    },
+    {
+      "temperature_1": 22.54,
+      "humidity": 47.78,
+      "pressure": 993.0419,
+      "rssi": -96.156
+    },
+    {
+      "temperature_1": 24.46,
+      "humidity": 48.46,
+      "pressure": 991.2938,
+      "rssi": -78.0369
+    },
+    {
+      "temperature_1": 24.37,
+      "humidity": 48.11,
+      "pressure": 994.2437,
+      "rssi": -75.6922
+    },
+    {
+      "temperature_1": 24.21,
+      "humidity": 45.93,
+      "pressure": 1008.4207,
+      "rssi": -59.1878
+    },
+    {
+      "temperature_1": 24.64,
+      "humidity": 48.64,
+      "pressure": 993.8228,
+      "rssi": -66.8096
+    },
+    {
+      "temperature_1": 21.21,
+      "humidity": 47.69,
+      "pressure": 996.9476,
+      "rssi": -52.3469
+    },
+    {
+      "temperature_1": 21.11,
+      "humidity": 49.94,
+      "pressure": 990.6243,
+      "rssi": -59.9936
+    },
+    {
+      "temperature_1": 20.41,
+      "humidity": 49.95,
+      "pressure": 999.251,
+      "rssi": -79.7219
+    },
+    {
+      "temperature_1": 24.32,
+      "humidity": 49.3,
+      "pressure": 990.1954,
+      "rssi": -91.361
+    },
+    {
+      "temperature_1": 23.54,
+      "humidity": 49.28,
+      "pressure": 1004.2612,
+      "rssi": -81.6962
+    },
+    {
+      "temperature_1": 20.61,
+      "humidity": 46.58,
+      "pressure": 992.3438,
+      "rssi": -68.5311
+    },
+    {
+      "temperature_1": 23.63,
+      "humidity": 46.99,
+      "pressure": 993.5154,
+      "rssi": -67.2649
+    },
+    {
+      "temperature_1": 20.47,
+      "humidity": 48.55,
+      "pressure": 1005.1552,
+      "rssi": -73.9282
+    },
+    {
+      "temperature_1": 21.08,
+      "humidity": 48.42,
+      "pressure": 1004.4926,
+      "rssi": -94.3011
+    },
+    {
+      "temperature_1": 22.82,
+      "humidity": 45,
+      "pressure": 1001.8859,
+      "rssi": -50.6817
+    },
+    {
+      "temperature_1": 20.35,
+      "humidity": 46.83,
+      "pressure": 995.4134,
+      "rssi": -74.1809
+    },
+    {
+      "temperature_1": 22.15,
+      "humidity": 46.74,
+      "pressure": 1008.3913,
+      "rssi": -79.0876
+    },
+    {
+      "temperature_1": 20.07,
+      "humidity": 47.59,
+      "pressure": 995.4726,
+      "rssi": -91.4519
+    },
+    {
+      "temperature_1": 24.33,
+      "humidity": 45.3,
+      "pressure": 1003.4806,
+      "rssi": -98.8419
+    },
+    {
+      "temperature_1": 21.12,
+      "humidity": 47.21,
+      "pressure": 999.7562,
+      "rssi": -84.0876
+    },
+    {
+      "temperature_1": 21.1,
+      "humidity": 49.67,
+      "pressure": 1004.5439,
+      "rssi": -61.3488
+    },
+    {
+      "temperature_1": 23.46,
+      "humidity": 48.19,
+      "pressure": 993.3941,
+      "rssi": -66.859
+    },
+    {
+      "temperature_1": 21.47,
+      "humidity": 47.13,
+      "pressure": 1006.2686,
+      "rssi": -65.1566
+    },
+    {
+      "temperature_1": 21.11,
+      "humidity": 48.6,
+      "pressure": 1009.6726,
+      "rssi": -97.5339
+    },
+    {
+      "temperature_1": 20.64,
+      "humidity": 49.26,
+      "pressure": 992.4238,
+      "rssi": -72.1122
+    },
+    {
+      "temperature_1": 21.41,
+      "humidity": 48.14,
+      "pressure": 997.3574,
+      "rssi": -54.2785
+    },
+    {
+      "temperature_1": 23.84,
+      "humidity": 49.49,
+      "pressure": 1004.7964,
+      "rssi": -91.5779
+    },
+    {
+      "temperature_1": 21.13,
+      "humidity": 45.36,
+      "pressure": 991.6425,
+      "rssi": -95.0385
+    },
+    {
+      "temperature_1": 22.55,
+      "humidity": 47.85,
+      "pressure": 995.537,
+      "rssi": -85.6078
+    },
+    {
+      "temperature_1": 20.63,
+      "humidity": 46.87,
+      "pressure": 1009.8729,
+      "rssi": -64.9024
+    },
+    {
+      "temperature_1": 24.63,
+      "humidity": 45.53,
+      "pressure": 996.413,
+      "rssi": -53.5731
+    },
+    {
+      "temperature_1": 23.98,
+      "humidity": 46.11,
+      "pressure": 997.4789,
+      "rssi": -68.0505
+    },
+    {
+      "temperature_1": 21.3,
+      "humidity": 47.72,
+      "pressure": 994.8104,
+      "rssi": -60.4629
+    },
+    {
+      "temperature_1": 22.41,
+      "humidity": 48.08,
+      "pressure": 995.5623,
+      "rssi": -77.1057
+    },
+    {
+      "temperature_1": 20.62,
+      "humidity": 47.89,
+      "pressure": 1006.1444,
+      "rssi": -84.8488
+    },
+    {
+      "temperature_1": 21.58,
+      "humidity": 47.56,
+      "pressure": 996.4458,
+      "rssi": -68.4847
+    },
+    {
+      "temperature_1": 22.12,
+      "humidity": 47.03,
+      "pressure": 1001.5668,
+      "rssi": -53.4026
+    },
+    {
+      "temperature_1": 22.16,
+      "humidity": 45.93,
+      "pressure": 994.6254,
+      "rssi": -69.7264
+    },
+    {
+      "temperature_1": 24.21,
+      "humidity": 46.74,
+      "pressure": 993.275,
+      "rssi": -77.2362
+    },
+    {
+      "temperature_1": 20.63,
+      "humidity": 49.95,
+      "pressure": 999.6533,
+      "rssi": -72.1959
+    },
+    {
+      "temperature_1": 22.79,
+      "humidity": 47.34,
+      "pressure": 994.8029,
+      "rssi": -61.6803
+    },
+    {
+      "temperature_1": 20.73,
+      "humidity": 47.15,
+      "pressure": 998.2103,
+      "rssi": -50.7883
+    },
+    {
+      "temperature_1": 23.27,
+      "humidity": 45.48,
+      "pressure": 1005.4991,
+      "rssi": -73.2537
+    },
+    {
+      "temperature_1": 23.01,
+      "humidity": 46.71,
+      "pressure": 990.0065,
+      "rssi": -97.1545
+    },
+    {
+      "temperature_1": 23.79,
+      "humidity": 46.12,
+      "pressure": 1007.1504,
+      "rssi": -98.5901
+    },
+    {
+      "temperature_1": 23.3,
+      "humidity": 47.06,
+      "pressure": 998.3218,
+      "rssi": -74.768
+    },
+    {
+      "temperature_1": 23.4,
+      "humidity": 47.81,
+      "pressure": 1009.0065,
+      "rssi": -57.8049
+    },
+    {
+      "temperature_1": 22.03,
+      "humidity": 46.8,
+      "pressure": 1003.9205,
+      "rssi": -50.5386
+    },
+    {
+      "temperature_1": 21.02,
+      "humidity": 46,
+      "pressure": 995.7009,
+      "rssi": -71.944
+    },
+    {
+      "temperature_1": 22.43,
+      "humidity": 48.99,
+      "pressure": 991.5899,
+      "rssi": -52.1909
+    },
+    {
+      "temperature_1": 21.37,
+      "humidity": 49.84,
+      "pressure": 1000.9022,
+      "rssi": -91.8637
+    },
+    {
+      "temperature_1": 21.64,
+      "humidity": 46.54,
+      "pressure": 1007.342,
+      "rssi": -80.2706
+    },
+    {
+      "temperature_1": 20.58,
+      "humidity": 48.64,
+      "pressure": 1009.3988,
+      "rssi": -53.2242
+    },
+    {
+      "temperature_1": 24.16,
+      "humidity": 49.74,
+      "pressure": 995.0956,
+      "rssi": -56.8264
+    },
+    {
+      "temperature_1": 21.35,
+      "humidity": 46.83,
+      "pressure": 998.7818,
+      "rssi": -52.121
+    },
+    {
+      "temperature_1": 22.6,
+      "humidity": 47.79,
+      "pressure": 995.78,
+      "rssi": -58.8886
+    },
+    {
+      "temperature_1": 23.88,
+      "humidity": 45.07,
+      "pressure": 996.3049,
+      "rssi": -80.1175
+    },
+    {
+      "temperature_1": 20.21,
+      "humidity": 49.4,
+      "pressure": 993.1408,
+      "rssi": -75.6911
+    },
+    {
+      "temperature_1": 22.9,
+      "humidity": 49.29,
+      "pressure": 1003.0381,
+      "rssi": -93.0071
+    },
+    {
+      "temperature_1": 21.1,
+      "humidity": 45.67,
+      "pressure": 996.8867,
+      "rssi": -65.0796
+    },
+    {
+      "temperature_1": 23.39,
+      "humidity": 49.97,
+      "pressure": 999.1047,
+      "rssi": -74.4297
+    },
+    {
+      "temperature_1": 24.27,
+      "humidity": 45.84,
+      "pressure": 1000.8822,
+      "rssi": -52.0116
+    },
+    {
+      "temperature_1": 21.08,
+      "humidity": 45.34,
+      "pressure": 1009.5011,
+      "rssi": -79.815
+    },
+    {
+      "temperature_1": 24.66,
+      "humidity": 48.18,
+      "pressure": 992.3599,
+      "rssi": -94.1948
+    },
+    {
+      "temperature_1": 20.25,
+      "humidity": 49.62,
+      "pressure": 1001.5378,
+      "rssi": -92.5122
+    },
+    {
+      "temperature_1": 23.95,
+      "humidity": 48.74,
+      "pressure": 1001.6622,
+      "rssi": -72.1351
+    },
+    {
+      "temperature_1": 20.82,
+      "humidity": 46.14,
+      "pressure": 1003.0109,
+      "rssi": -52.4518
+    },
+    {
+      "temperature_1": 23.41,
+      "humidity": 48.56,
+      "pressure": 991.3264,
+      "rssi": -81.0408
+    },
+    {
+      "temperature_1": 24.62,
+      "humidity": 45.8,
+      "pressure": 1004.9016,
+      "rssi": -50.6134
+    },
+    {
+      "temperature_1": 22.05,
+      "humidity": 45.3,
+      "pressure": 1004.879,
+      "rssi": -62.7063
+    },
+    {
+      "temperature_1": 23.34,
+      "humidity": 49.47,
+      "pressure": 999.5982,
+      "rssi": -97.0349
+    },
+    {
+      "temperature_1": 21.55,
+      "humidity": 46.95,
+      "pressure": 999.4067,
+      "rssi": -61.915
+    },
+    {
+      "temperature_1": 21.07,
+      "humidity": 45.66,
+      "pressure": 1007.729,
+      "rssi": -84.7752
+    },
+    {
+      "temperature_1": 20.11,
+      "humidity": 45.2,
+      "pressure": 1002.3403,
+      "rssi": -65.9919
+    },
+    {
+      "temperature_1": 22.62,
+      "humidity": 45.15,
+      "pressure": 1001.9591,
+      "rssi": -53.0875
+    },
+    {
+      "temperature_1": 24.4,
+      "humidity": 47.19,
+      "pressure": 1009.3055,
+      "rssi": -56
+    },
+    {
+      "temperature_1": 23.53,
+      "humidity": 47.73,
+      "pressure": 1009.3769,
+      "rssi": -91.1802
+    },
+    {
+      "temperature_1": 21.4,
+      "humidity": 48.01,
+      "pressure": 1005.0808,
+      "rssi": -74.9729
+    },
+    {
+      "temperature_1": 25,
+      "humidity": 48.07,
+      "pressure": 1008.8978,
+      "rssi": -84.0291
+    },
+    {
+      "temperature_1": 20.38,
+      "humidity": 48.91,
+      "pressure": 1006.9933,
+      "rssi": -55.2155
+    },
+    {
+      "temperature_1": 20.9,
+      "humidity": 47.94,
+      "pressure": 1001.7387,
+      "rssi": -53.8482
+    },
+    {
+      "temperature_1": 20.95,
+      "humidity": 47.08,
+      "pressure": 994.8829,
+      "rssi": -66.7104
+    },
+    {
+      "temperature_1": 24.29,
+      "humidity": 47.51,
+      "pressure": 992.4452,
+      "rssi": -51.0931
+    },
+    {
+      "temperature_1": 21.27,
+      "humidity": 47.35,
+      "pressure": 1005.3199,
+      "rssi": -87.3794
+    },
+    {
+      "temperature_1": 21.2,
+      "humidity": 48.11,
+      "pressure": 1009.5527,
+      "rssi": -57.4851
+    },
+    {
+      "temperature_1": 21.21,
+      "humidity": 46.2,
+      "pressure": 1000.3484,
+      "rssi": -73.063
+    },
+    {
+      "temperature_1": 23.93,
+      "humidity": 47.66,
+      "pressure": 1008.4751,
+      "rssi": -88.6299
+    },
+    {
+      "temperature_1": 22.32,
+      "humidity": 49.15,
+      "pressure": 1006.9915,
+      "rssi": -99.6134
+    },
+    {
+      "temperature_1": 21.21,
+      "humidity": 48.4,
+      "pressure": 1004.1299,
+      "rssi": -80.4848
+    },
+    {
+      "temperature_1": 22.73,
+      "humidity": 48.96,
+      "pressure": 1009.7078,
+      "rssi": -85.8214
+    },
+    {
+      "temperature_1": 24.34,
+      "humidity": 46.66,
+      "pressure": 1003.92,
+      "rssi": -70.7335
+    },
+    {
+      "temperature_1": 22.04,
+      "humidity": 45.01,
+      "pressure": 999.2732,
+      "rssi": -66.2602
+    },
+    {
+      "temperature_1": 21.76,
+      "humidity": 46.53,
+      "pressure": 990.9216,
+      "rssi": -78.987
+    },
+    {
+      "temperature_1": 24.34,
+      "humidity": 46,
+      "pressure": 1006.0268,
+      "rssi": -75.2881
+    },
+    {
+      "temperature_1": 22.56,
+      "humidity": 46.75,
+      "pressure": 991.7431,
+      "rssi": -95.3936
+    },
+    {
+      "temperature_1": 23.09,
+      "humidity": 47.21,
+      "pressure": 992.3411,
+      "rssi": -64.799
+    },
+    {
+      "temperature_1": 21.86,
+      "humidity": 47.74,
+      "pressure": 996.7825,
+      "rssi": -53.2525
+    },
+    {
+      "temperature_1": 21.67,
+      "humidity": 49.63,
+      "pressure": 994.7344,
+      "rssi": -61.0149
+    },
+    {
+      "temperature_1": 20.58,
+      "humidity": 46.72,
+      "pressure": 999.9351,
+      "rssi": -61.5334
+    },
+    {
+      "temperature_1": 21.24,
+      "humidity": 47.57,
+      "pressure": 1004.9626,
+      "rssi": -93.1672
+    },
+    {
+      "temperature_1": 21.36,
+      "humidity": 49.07,
+      "pressure": 992.6572,
+      "rssi": -64.0953
+    },
+    {
+      "temperature_1": 23.09,
+      "humidity": 46.22,
+      "pressure": 994.9352,
+      "rssi": -70.0892
+    },
+    {
+      "temperature_1": 24.04,
+      "humidity": 48.33,
+      "pressure": 1002.9582,
+      "rssi": -75.327
+    },
+    {
+      "temperature_1": 22.01,
+      "humidity": 45.85,
+      "pressure": 1001.9465,
+      "rssi": -51.1939
+    },
+    {
+      "temperature_1": 23.58,
+      "humidity": 47,
+      "pressure": 998.1671,
+      "rssi": -91.8582
+    },
+    {
+      "temperature_1": 20.15,
+      "humidity": 47.73,
+      "pressure": 993.2258,
+      "rssi": -67.1413
+    },
+    {
+      "temperature_1": 20.14,
+      "humidity": 46.74,
+      "pressure": 999.1901,
+      "rssi": -58.9476
+    },
+    {
+      "temperature_1": 20.58,
+      "humidity": 48.55,
+      "pressure": 1009.0416,
+      "rssi": -83.6827
+    },
+    {
+      "temperature_1": 23.63,
+      "humidity": 48.48,
+      "pressure": 1006.4504,
+      "rssi": -68.7636
+    },
+    {
+      "temperature_1": 20.43,
+      "humidity": 48.7,
+      "pressure": 995.1489,
+      "rssi": -97.6967
+    },
+    {
+      "temperature_1": 22.95,
+      "humidity": 47.16,
+      "pressure": 1008.1519,
+      "rssi": -99.4012
+    },
+    {
+      "temperature_1": 24.83,
+      "humidity": 47.27,
+      "pressure": 992.2756,
+      "rssi": -58.2358
+    },
+    {
+      "temperature_1": 21.2,
+      "humidity": 47.59,
+      "pressure": 997.6185,
+      "rssi": -68.4756
+    },
+    {
+      "temperature_1": 24.86,
+      "humidity": 46.25,
+      "pressure": 1009.539,
+      "rssi": -91.8027
+    },
+    {
+      "temperature_1": 20.45,
+      "humidity": 47.67,
+      "pressure": 1000.8994,
+      "rssi": -69.9634
+    },
+    {
+      "temperature_1": 23.26,
+      "humidity": 46.16,
+      "pressure": 1003.3607,
+      "rssi": -75.719
+    },
+    {
+      "temperature_1": 24.05,
+      "humidity": 48.57,
+      "pressure": 1003.8948,
+      "rssi": -71.3855
+    },
+    {
+      "temperature_1": 20.49,
+      "humidity": 45.81,
+      "pressure": 999.3313,
+      "rssi": -55.3457
+    },
+    {
+      "temperature_1": 24.83,
+      "humidity": 46.27,
+      "pressure": 990.8294,
+      "rssi": -75.8226
+    },
+    {
+      "temperature_1": 21.03,
+      "humidity": 45.66,
+      "pressure": 995.4801,
+      "rssi": -76.4462
+    },
+    {
+      "temperature_1": 21.14,
+      "humidity": 46.72,
+      "pressure": 1001.6467,
+      "rssi": -73.4475
+    },
+    {
+      "temperature_1": 24.59,
+      "humidity": 48.51,
+      "pressure": 1008.3421,
+      "rssi": -87.8938
+    },
+    {
+      "temperature_1": 24.28,
+      "humidity": 48.51,
+      "pressure": 1003.0473,
+      "rssi": -98.7246
+    },
+    {
+      "temperature_1": 23.12,
+      "humidity": 47.51,
+      "pressure": 996.866,
+      "rssi": -60.3281
+    },
+    {
+      "temperature_1": 23.54,
+      "humidity": 46.64,
+      "pressure": 1002.3474,
+      "rssi": -68.8044
+    },
+    {
+      "temperature_1": 23.64,
+      "humidity": 49.9,
+      "pressure": 1006.4512,
+      "rssi": -69.5446
+    },
+    {
+      "temperature_1": 20.82,
+      "humidity": 48.65,
+      "pressure": 992.0216,
+      "rssi": -77.2446
+    },
+    {
+      "temperature_1": 22.32,
+      "humidity": 46.77,
+      "pressure": 1009.7778,
+      "rssi": -57.4914
+    },
+    {
+      "temperature_1": 20.45,
+      "humidity": 47.7,
+      "pressure": 1009.8334,
+      "rssi": -92.4251
+    },
+    {
+      "temperature_1": 21,
+      "humidity": 47.05,
+      "pressure": 1004.6077,
+      "rssi": -87.8799
+    },
+    {
+      "temperature_1": 22.22,
+      "humidity": 47.74,
+      "pressure": 994.8422,
+      "rssi": -64.6843
+    },
+    {
+      "temperature_1": 20.56,
+      "humidity": 47.25,
+      "pressure": 1005.2915,
+      "rssi": -51.8765
+    },
+    {
+      "temperature_1": 23.33,
+      "humidity": 47.52,
+      "pressure": 994.0822,
+      "rssi": -64.4767
+    },
+    {
+      "temperature_1": 21.56,
+      "humidity": 49.21,
+      "pressure": 995.9714,
+      "rssi": -51.4314
+    },
+    {
+      "temperature_1": 23.16,
+      "humidity": 46.91,
+      "pressure": 992.8212,
+      "rssi": -63.5779
+    },
+    {
+      "temperature_1": 21.31,
+      "humidity": 46.23,
+      "pressure": 1009.0482,
+      "rssi": -81.55
+    },
+    {
+      "temperature_1": 24.16,
+      "humidity": 45.12,
+      "pressure": 994.8381,
+      "rssi": -92.7521
+    },
+    {
+      "temperature_1": 24.73,
+      "humidity": 49.57,
+      "pressure": 993.4912,
+      "rssi": -62.6364
+    },
+    {
+      "temperature_1": 23.76,
+      "humidity": 46.41,
+      "pressure": 1008.9112,
+      "rssi": -81.5434
+    },
+    {
+      "temperature_1": 20.73,
+      "humidity": 48.56,
+      "pressure": 993.1381,
+      "rssi": -99.1217
+    },
+    {
+      "temperature_1": 23.13,
+      "humidity": 45.4,
+      "pressure": 991.5798,
+      "rssi": -87.0906
+    },
+    {
+      "temperature_1": 22.15,
+      "humidity": 46.91,
+      "pressure": 997.2096,
+      "rssi": -61.7711
+    },
+    {
+      "temperature_1": 22.62,
+      "humidity": 47.69,
+      "pressure": 994.5167,
+      "rssi": -93.3377
+    },
+    {
+      "temperature_1": 20.64,
+      "humidity": 48.31,
+      "pressure": 1007.3036,
+      "rssi": -60.0689
+    },
+    {
+      "temperature_1": 24.35,
+      "humidity": 46.52,
+      "pressure": 992.7034,
+      "rssi": -66.9649
+    },
+    {
+      "temperature_1": 23.43,
+      "humidity": 49.7,
+      "pressure": 992.0676,
+      "rssi": -74.0256
+    },
+    {
+      "temperature_1": 24.31,
+      "humidity": 48.47,
+      "pressure": 1006.1612,
+      "rssi": -77.4534
+    },
+    {
+      "temperature_1": 24.2,
+      "humidity": 46.64,
+      "pressure": 1005.2887,
+      "rssi": -93.7154
+    },
+    {
+      "temperature_1": 21.96,
+      "humidity": 48.06,
+      "pressure": 1008.0851,
+      "rssi": -92.0663
+    },
+    {
+      "temperature_1": 23.37,
+      "humidity": 47.64,
+      "pressure": 999.0464,
+      "rssi": -52.4866
+    },
+    {
+      "temperature_1": 21.2,
+      "humidity": 45.31,
+      "pressure": 990.9819,
+      "rssi": -93.3471
+    },
+    {
+      "temperature_1": 21.1,
+      "humidity": 49.33,
+      "pressure": 990.5299,
+      "rssi": -55.0369
+    },
+    {
+      "temperature_1": 21.68,
+      "humidity": 46.28,
+      "pressure": 1008.4144,
+      "rssi": -61.5708
+    },
+    {
+      "temperature_1": 23.06,
+      "humidity": 45.46,
+      "pressure": 1001.2643,
+      "rssi": -60.2382
+    },
+    {
+      "temperature_1": 20.27,
+      "humidity": 49.3,
+      "pressure": 995.0473,
+      "rssi": -92.2228
+    },
+    {
+      "temperature_1": 23.52,
+      "humidity": 49.45,
+      "pressure": 1000.2245,
+      "rssi": -73.6836
+    },
+    {
+      "temperature_1": 21.18,
+      "humidity": 49.45,
+      "pressure": 994.1811,
+      "rssi": -72.1245
+    },
+    {
+      "temperature_1": 21.16,
+      "humidity": 48.08,
+      "pressure": 1003.464,
+      "rssi": -82.3348
+    },
+    {
+      "temperature_1": 22.21,
+      "humidity": 45.59,
+      "pressure": 992.1563,
+      "rssi": -92.7032
+    },
+    {
+      "temperature_1": 21.56,
+      "humidity": 48.9,
+      "pressure": 1002.5605,
+      "rssi": -74.8082
+    },
+    {
+      "temperature_1": 22.1,
+      "humidity": 45.76,
+      "pressure": 996.2536,
+      "rssi": -78.1687
+    },
+    {
+      "temperature_1": 22.51,
+      "humidity": 45.37,
+      "pressure": 995.1029,
+      "rssi": -80.9623
+    },
+    {
+      "temperature_1": 20.1,
+      "humidity": 47.3,
+      "pressure": 1009.7564,
+      "rssi": -62.3876
+    },
+    {
+      "temperature_1": 24.33,
+      "humidity": 45.67,
+      "pressure": 1000.1678,
+      "rssi": -73.9894
+    },
+    {
+      "temperature_1": 21.94,
+      "humidity": 45.52,
+      "pressure": 1001.7353,
+      "rssi": -65.3834
+    },
+    {
+      "temperature_1": 21.45,
+      "humidity": 49.97,
+      "pressure": 994.1251,
+      "rssi": -84.8194
+    },
+    {
+      "temperature_1": 20.55,
+      "humidity": 46.23,
+      "pressure": 1009.3877,
+      "rssi": -59.3928
+    },
+    {
+      "temperature_1": 22.67,
+      "humidity": 45.68,
+      "pressure": 996.4248,
+      "rssi": -79.8924
+    },
+    {
+      "temperature_1": 24.87,
+      "humidity": 49.63,
+      "pressure": 1009.1526,
+      "rssi": -87.3945
+    },
+    {
+      "temperature_1": 24.66,
+      "humidity": 46.66,
+      "pressure": 998.3686,
+      "rssi": -98.7281
+    },
+    {
+      "temperature_1": 22.62,
+      "humidity": 45.39,
+      "pressure": 999.6118,
+      "rssi": -74.4947
+    },
+    {
+      "temperature_1": 20.34,
+      "humidity": 46.36,
+      "pressure": 1008.7221,
+      "rssi": -95.117
+    },
+    {
+      "temperature_1": 20.83,
+      "humidity": 49.65,
+      "pressure": 1001.8167,
+      "rssi": -82.897
+    },
+    {
+      "temperature_1": 22.08,
+      "humidity": 47.9,
+      "pressure": 1001.7198,
+      "rssi": -63.6379
+    },
+    {
+      "temperature_1": 22.42,
+      "humidity": 46.19,
+      "pressure": 999.8565,
+      "rssi": -91.5925
+    },
+    {
+      "temperature_1": 23.83,
+      "humidity": 49.31,
+      "pressure": 999.2667,
+      "rssi": -90.7027
+    },
+    {
+      "temperature_1": 20.93,
+      "humidity": 49.47,
+      "pressure": 1003.7144,
+      "rssi": -77.496
+    },
+    {
+      "temperature_1": 21.28,
+      "humidity": 46.57,
+      "pressure": 1008.9284,
+      "rssi": -79.1554
+    },
+    {
+      "temperature_1": 20.19,
+      "humidity": 48.78,
+      "pressure": 1003.1905,
+      "rssi": -54.9749
+    },
+    {
+      "temperature_1": 20.33,
+      "humidity": 45.25,
+      "pressure": 996.7123,
+      "rssi": -95.4434
+    },
+    {
+      "temperature_1": 23.88,
+      "humidity": 46.67,
+      "pressure": 995.7267,
+      "rssi": -71.7295
+    },
+    {
+      "temperature_1": 24.85,
+      "humidity": 45.14,
+      "pressure": 996.8873,
+      "rssi": -96.5082
+    },
+    {
+      "temperature_1": 22.69,
+      "humidity": 47.11,
+      "pressure": 993.1968,
+      "rssi": -56.8904
+    },
+    {
+      "temperature_1": 22.11,
+      "humidity": 46.45,
+      "pressure": 992.6739,
+      "rssi": -81.6026
+    },
+    {
+      "temperature_1": 20.92,
+      "humidity": 48.64,
+      "pressure": 992.8661,
+      "rssi": -97.5298
+    },
+    {
+      "temperature_1": 22.18,
+      "humidity": 46.7,
+      "pressure": 991.7823,
+      "rssi": -58.1857
+    },
+    {
+      "temperature_1": 24.2,
+      "humidity": 48.03,
+      "pressure": 1003.2032,
+      "rssi": -58.1231
+    },
+    {
+      "temperature_1": 22.91,
+      "humidity": 47.58,
+      "pressure": 1007.6617,
+      "rssi": -68.56
+    },
+    {
+      "temperature_1": 24.22,
+      "humidity": 49.33,
+      "pressure": 999.81,
+      "rssi": -74.6526
+    },
+    {
+      "temperature_1": 24.87,
+      "humidity": 47.54,
+      "pressure": 1007.9114,
+      "rssi": -63.9554
+    },
+    {
+      "temperature_1": 21.73,
+      "humidity": 49.26,
+      "pressure": 997.0129,
+      "rssi": -82.1889
+    },
+    {
+      "temperature_1": 24.28,
+      "humidity": 48.15,
+      "pressure": 990.6967,
+      "rssi": -56.8782
+    },
+    {
+      "temperature_1": 23.84,
+      "humidity": 47.84,
+      "pressure": 992.6953,
+      "rssi": -71.2683
+    },
+    {
+      "temperature_1": 24.24,
+      "humidity": 49.62,
+      "pressure": 990.0842,
+      "rssi": -91.802
+    },
+    {
+      "temperature_1": 24.07,
+      "humidity": 48.59,
+      "pressure": 1000.2148,
+      "rssi": -69.2873
+    },
+    {
+      "temperature_1": 20.24,
+      "humidity": 48.93,
+      "pressure": 1004.4735,
+      "rssi": -93.5822
+    },
+    {
+      "temperature_1": 24.37,
+      "humidity": 49.4,
+      "pressure": 995.156,
+      "rssi": -82.8391
+    },
+    {
+      "temperature_1": 22.21,
+      "humidity": 46.33,
+      "pressure": 997.5683,
+      "rssi": -84.0689
+    },
+    {
+      "temperature_1": 23.16,
+      "humidity": 46.39,
+      "pressure": 1007.4408,
+      "rssi": -67.4326
+    },
+    {
+      "temperature_1": 23.52,
+      "humidity": 45.48,
+      "pressure": 993.4222,
+      "rssi": -95.2704
+    },
+    {
+      "temperature_1": 24.16,
+      "humidity": 48.53,
+      "pressure": 1009.3477,
+      "rssi": -64.8988
+    },
+    {
+      "temperature_1": 22.25,
+      "humidity": 48.37,
+      "pressure": 1009.2516,
+      "rssi": -85.3389
+    },
+    {
+      "temperature_1": 21.91,
+      "humidity": 47.44,
+      "pressure": 990.0018,
+      "rssi": -61.475
+    },
+    {
+      "temperature_1": 21.92,
+      "humidity": 46.58,
+      "pressure": 1002.6173,
+      "rssi": -92.3052
+    },
+    {
+      "temperature_1": 22.95,
+      "humidity": 45.91,
+      "pressure": 1006.6248,
+      "rssi": -58.7885
+    },
+    {
+      "temperature_1": 22.1,
+      "humidity": 48.96,
+      "pressure": 1001.7669,
+      "rssi": -53.8481
+    },
+    {
+      "temperature_1": 21.41,
+      "humidity": 46.83,
+      "pressure": 996.6224,
+      "rssi": -77.611
+    },
+    {
+      "temperature_1": 24.76,
+      "humidity": 45.57,
+      "pressure": 997.5334,
+      "rssi": -74.9724
+    },
+    {
+      "temperature_1": 20.83,
+      "humidity": 48.61,
+      "pressure": 1004.6293,
+      "rssi": -53.9457
+    },
+    {
+      "temperature_1": 21.12,
+      "humidity": 48.27,
+      "pressure": 1002.1373,
+      "rssi": -70.9771
+    },
+    {
+      "temperature_1": 21.85,
+      "humidity": 45.92,
+      "pressure": 990.3014,
+      "rssi": -64.2643
+    },
+    {
+      "temperature_1": 24.67,
+      "humidity": 46.91,
+      "pressure": 1005.1842,
+      "rssi": -67.6597
+    },
+    {
+      "temperature_1": 21.71,
+      "humidity": 48.22,
+      "pressure": 1006.5667,
+      "rssi": -59.5554
+    },
+    {
+      "temperature_1": 21.78,
+      "humidity": 47.67,
+      "pressure": 1003.8487,
+      "rssi": -64.2133
+    },
+    {
+      "temperature_1": 22.71,
+      "humidity": 46.94,
+      "pressure": 1008.5677,
+      "rssi": -75.4522
+    },
+    {
+      "temperature_1": 23.18,
+      "humidity": 46.93,
+      "pressure": 998.8792,
+      "rssi": -61.4139
+    },
+    {
+      "temperature_1": 24.74,
+      "humidity": 49.28,
+      "pressure": 1000.2549,
+      "rssi": -98.1719
+    },
+    {
+      "temperature_1": 20.62,
+      "humidity": 48.91,
+      "pressure": 993.2466,
+      "rssi": -79.0088
+    },
+    {
+      "temperature_1": 20.3,
+      "humidity": 49.24,
+      "pressure": 994.7744,
+      "rssi": -60.8698
+    },
+    {
+      "temperature_1": 24.09,
+      "humidity": 45.29,
+      "pressure": 999.195,
+      "rssi": -52.5459
+    },
+    {
+      "temperature_1": 21.44,
+      "humidity": 48.18,
+      "pressure": 990.9018,
+      "rssi": -76.3865
+    },
+    {
+      "temperature_1": 23.14,
+      "humidity": 47.97,
+      "pressure": 996.4383,
+      "rssi": -61.3792
+    },
+    {
+      "temperature_1": 21.26,
+      "humidity": 48.6,
+      "pressure": 1002.5559,
+      "rssi": -54.4979
+    },
+    {
+      "temperature_1": 20.32,
+      "humidity": 45.07,
+      "pressure": 997.765,
+      "rssi": -78.982
+    },
+    {
+      "temperature_1": 21.6,
+      "humidity": 45.24,
+      "pressure": 995.2359,
+      "rssi": -64.3507
+    },
+    {
+      "temperature_1": 22.32,
+      "humidity": 47.32,
+      "pressure": 1009.0879,
+      "rssi": -79.1006
+    },
+    {
+      "temperature_1": 24.76,
+      "humidity": 49.68,
+      "pressure": 993.8873,
+      "rssi": -94.4376
+    },
+    {
+      "temperature_1": 20.54,
+      "humidity": 47.52,
+      "pressure": 1002.129,
+      "rssi": -92.9403
+    },
+    {
+      "temperature_1": 23.08,
+      "humidity": 46.15,
+      "pressure": 993.8994,
+      "rssi": -98.2321
+    },
+    {
+      "temperature_1": 21.5,
+      "humidity": 46.22,
+      "pressure": 994.5392,
+      "rssi": -70.8127
+    },
+    {
+      "temperature_1": 24.22,
+      "humidity": 49.5,
+      "pressure": 995.9996,
+      "rssi": -71.713
+    },
+    {
+      "temperature_1": 20.73,
+      "humidity": 49.83,
+      "pressure": 992.359,
+      "rssi": -75.0511
+    },
+    {
+      "temperature_1": 23.03,
+      "humidity": 45.1,
+      "pressure": 1009.7216,
+      "rssi": -78.8745
+    },
+    {
+      "temperature_1": 24.65,
+      "humidity": 45.37,
+      "pressure": 995.4027,
+      "rssi": -79.3841
+    },
+    {
+      "temperature_1": 21.91,
+      "humidity": 48.34,
+      "pressure": 1008.033,
+      "rssi": -83.6588
+    },
+    {
+      "temperature_1": 21.35,
+      "humidity": 49.17,
+      "pressure": 999.5844,
+      "rssi": -61.4672
+    },
+    {
+      "temperature_1": 21.6,
+      "humidity": 47.7,
+      "pressure": 999.9995,
+      "rssi": -78.152
+    },
+    {
+      "temperature_1": 20.17,
+      "humidity": 49.22,
+      "pressure": 997.0557,
+      "rssi": -78.4397
+    },
+    {
+      "temperature_1": 20.55,
+      "humidity": 48.23,
+      "pressure": 997.9028,
+      "rssi": -99.4678
+    },
+    {
+      "temperature_1": 23.97,
+      "humidity": 46.54,
+      "pressure": 1005.6056,
+      "rssi": -72.9899
+    },
+    {
+      "temperature_1": 23.72,
+      "humidity": 48.31,
+      "pressure": 998.9838,
+      "rssi": -70.407
+    },
+    {
+      "temperature_1": 23.56,
+      "humidity": 46.77,
+      "pressure": 1007.5876,
+      "rssi": -87.5136
+    },
+    {
+      "temperature_1": 24.16,
+      "humidity": 48.51,
+      "pressure": 1006.8027,
+      "rssi": -68.8537
+    },
+    {
+      "temperature_1": 24.26,
+      "humidity": 46.33,
+      "pressure": 994.8059,
+      "rssi": -86.193
+    },
+    {
+      "temperature_1": 23.49,
+      "humidity": 45.41,
+      "pressure": 993.3704,
+      "rssi": -97.111
+    },
+    {
+      "temperature_1": 24.24,
+      "humidity": 45.68,
+      "pressure": 1005.3018,
+      "rssi": -61.8879
+    },
+    {
+      "temperature_1": 23.48,
+      "humidity": 49.8,
+      "pressure": 1005.7702,
+      "rssi": -86.6678
+    },
+    {
+      "temperature_1": 20,
+      "humidity": 46.63,
+      "pressure": 1009.1393,
+      "rssi": -98.3825
+    },
+    {
+      "temperature_1": 23.3,
+      "humidity": 45.49,
+      "pressure": 996.9323,
+      "rssi": -58.0625
+    },
+    {
+      "temperature_1": 23.67,
+      "humidity": 46.33,
+      "pressure": 992.3888,
+      "rssi": -79.45
+    },
+    {
+      "temperature_1": 21.91,
+      "humidity": 45.74,
+      "pressure": 1005.5551,
+      "rssi": -61.6249
+    },
+    {
+      "temperature_1": 20.19,
+      "humidity": 45.49,
+      "pressure": 1005.5747,
+      "rssi": -53.6896
+    },
+    {
+      "temperature_1": 22.85,
+      "humidity": 45.44,
+      "pressure": 999.7114,
+      "rssi": -53.3914
+    },
+    {
+      "temperature_1": 24,
+      "humidity": 48.57,
+      "pressure": 1009.0772,
+      "rssi": -53.2121
+    },
+    {
+      "temperature_1": 20.66,
+      "humidity": 45.92,
+      "pressure": 990.6942,
+      "rssi": -87.9429
+    },
+    {
+      "temperature_1": 22.17,
+      "humidity": 45.94,
+      "pressure": 990.499,
+      "rssi": -58.2643
+    },
+    {
+      "temperature_1": 20.4,
+      "humidity": 48.49,
+      "pressure": 1004.3815,
+      "rssi": -95.6846
+    },
+    {
+      "temperature_1": 23.6,
+      "humidity": 49.35,
+      "pressure": 1001.8803,
+      "rssi": -88.1695
+    },
+    {
+      "temperature_1": 22.22,
+      "humidity": 49.54,
+      "pressure": 997.6647,
+      "rssi": -61.2133
+    },
+    {
+      "temperature_1": 23.27,
+      "humidity": 47.24,
+      "pressure": 999.3089,
+      "rssi": -69.7766
+    },
+    {
+      "temperature_1": 22.13,
+      "humidity": 46.85,
+      "pressure": 1001.1679,
+      "rssi": -96.3764
+    },
+    {
+      "temperature_1": 20.76,
+      "humidity": 49.02,
+      "pressure": 993.7627,
+      "rssi": -93.8199
+    },
+    {
+      "temperature_1": 20.88,
+      "humidity": 46.5,
+      "pressure": 1004.7185,
+      "rssi": -95.4741
+    },
+    {
+      "temperature_1": 24.89,
+      "humidity": 48.54,
+      "pressure": 995.594,
+      "rssi": -90.7849
+    },
+    {
+      "temperature_1": 21.34,
+      "humidity": 46.08,
+      "pressure": 998.256,
+      "rssi": -69.8367
+    },
+    {
+      "temperature_1": 20.62,
+      "humidity": 48.07,
+      "pressure": 1001.4224,
+      "rssi": -92.8988
+    },
+    {
+      "temperature_1": 23.64,
+      "humidity": 45.09,
+      "pressure": 990.2549,
+      "rssi": -68.8826
+    },
+    {
+      "temperature_1": 23.88,
+      "humidity": 47.37,
+      "pressure": 1004.1781,
+      "rssi": -56.0701
+    },
+    {
+      "temperature_1": 24.84,
+      "humidity": 49.82,
+      "pressure": 992.495,
+      "rssi": -84.3958
+    },
+    {
+      "temperature_1": 20.76,
+      "humidity": 49.52,
+      "pressure": 1001.2526,
+      "rssi": -94.7036
+    },
+    {
+      "temperature_1": 21.77,
+      "humidity": 46.77,
+      "pressure": 1002.0553,
+      "rssi": -68.1907
+    },
+    {
+      "temperature_1": 23.26,
+      "humidity": 46.3,
+      "pressure": 1002.5092,
+      "rssi": -66.8269
+    },
+    {
+      "temperature_1": 22.92,
+      "humidity": 48.71,
+      "pressure": 1002.496,
+      "rssi": -92.0011
+    },
+    {
+      "temperature_1": 21.64,
+      "humidity": 48.21,
+      "pressure": 999.2346,
+      "rssi": -76.8386
+    },
+    {
+      "temperature_1": 20.28,
+      "humidity": 48.96,
+      "pressure": 990.1789,
+      "rssi": -98.5621
+    },
+    {
+      "temperature_1": 20.37,
+      "humidity": 48.62,
+      "pressure": 997.5307,
+      "rssi": -60.8355
+    },
+    {
+      "temperature_1": 22.06,
+      "humidity": 47.99,
+      "pressure": 1008.0471,
+      "rssi": -92.8129
+    },
+    {
+      "temperature_1": 24.3,
+      "humidity": 48.24,
+      "pressure": 1002.3102,
+      "rssi": -84.6318
+    },
+    {
+      "temperature_1": 22.86,
+      "humidity": 48.68,
+      "pressure": 1009.8422,
+      "rssi": -90.6942
+    },
+    {
+      "temperature_1": 22.63,
+      "humidity": 46.45,
+      "pressure": 993.5904,
+      "rssi": -84.6468
+    },
+    {
+      "temperature_1": 22.15,
+      "humidity": 47.16,
+      "pressure": 991.8316,
+      "rssi": -93.9286
+    },
+    {
+      "temperature_1": 20.23,
+      "humidity": 47.85,
+      "pressure": 1006.9827,
+      "rssi": -50.1762
+    },
+    {
+      "temperature_1": 24.97,
+      "humidity": 49.71,
+      "pressure": 994.6162,
+      "rssi": -71.115
+    },
+    {
+      "temperature_1": 20.52,
+      "humidity": 45.89,
+      "pressure": 1007.7239,
+      "rssi": -82.3399
+    },
+    {
+      "temperature_1": 22.61,
+      "humidity": 46.52,
+      "pressure": 1007.5204,
+      "rssi": -51.9545
+    },
+    {
+      "temperature_1": 23.89,
+      "humidity": 45.52,
+      "pressure": 1000.6354,
+      "rssi": -86.5207
+    },
+    {
+      "temperature_1": 23.98,
+      "humidity": 48.95,
+      "pressure": 1004.4117,
+      "rssi": -73.243
+    },
+    {
+      "temperature_1": 24.28,
+      "humidity": 48.92,
+      "pressure": 1007.2458,
+      "rssi": -77.7025
+    },
+    {
+      "temperature_1": 21.52,
+      "humidity": 48.9,
+      "pressure": 1005.7852,
+      "rssi": -96.0726
+    },
+    {
+      "temperature_1": 22.11,
+      "humidity": 48.48,
+      "pressure": 996.2959,
+      "rssi": -54.3513
+    },
+    {
+      "temperature_1": 23.82,
+      "humidity": 48.36,
+      "pressure": 998.4661,
+      "rssi": -71.7204
+    },
+    {
+      "temperature_1": 23.57,
+      "humidity": 47.93,
+      "pressure": 1005.106,
+      "rssi": -59.8846
+    },
+    {
+      "temperature_1": 21.24,
+      "humidity": 48.09,
+      "pressure": 1001.7768,
+      "rssi": -73.6511
+    },
+    {
+      "temperature_1": 21.85,
+      "humidity": 49.75,
+      "pressure": 1004.0914,
+      "rssi": -81.6905
+    },
+    {
+      "temperature_1": 20.42,
+      "humidity": 45.46,
+      "pressure": 1000.1984,
+      "rssi": -59.2468
+    },
+    {
+      "temperature_1": 24.79,
+      "humidity": 46.01,
+      "pressure": 995.1782,
+      "rssi": -77.6035
+    },
+    {
+      "temperature_1": 20.59,
+      "humidity": 49.31,
+      "pressure": 1008.3347,
+      "rssi": -66.1478
+    },
+    {
+      "temperature_1": 20.98,
+      "humidity": 45.38,
+      "pressure": 999.187,
+      "rssi": -59.1868
+    },
+    {
+      "temperature_1": 20.92,
+      "humidity": 47.06,
+      "pressure": 1000.1725,
+      "rssi": -99.4703
+    },
+    {
+      "temperature_1": 22.13,
+      "humidity": 47.89,
+      "pressure": 1001.3069,
+      "rssi": -69.5409
+    },
+    {
+      "temperature_1": 20.7,
+      "humidity": 45.72,
+      "pressure": 1005.7085,
+      "rssi": -60.9909
+    },
+    {
+      "temperature_1": 24.94,
+      "humidity": 48.24,
+      "pressure": 995.6955,
+      "rssi": -56.0535
+    },
+    {
+      "temperature_1": 24.1,
+      "humidity": 46.97,
+      "pressure": 998.8992,
+      "rssi": -78.219
+    },
+    {
+      "temperature_1": 23.56,
+      "humidity": 49.4,
+      "pressure": 1003.2282,
+      "rssi": -89.352
+    },
+    {
+      "temperature_1": 24.08,
+      "humidity": 48.4,
+      "pressure": 993.0072,
+      "rssi": -54.4651
+    },
+    {
+      "temperature_1": 21.95,
+      "humidity": 49.88,
+      "pressure": 1005.9424,
+      "rssi": -76.4341
+    },
+    {
+      "temperature_1": 23.96,
+      "humidity": 46.34,
+      "pressure": 1008.1916,
+      "rssi": -80.8404
+    },
+    {
+      "temperature_1": 24.56,
+      "humidity": 48.25,
+      "pressure": 999.657,
+      "rssi": -51.7314
+    },
+    {
+      "temperature_1": 22.77,
+      "humidity": 48.78,
+      "pressure": 997.4876,
+      "rssi": -63.6199
+    },
+    {
+      "temperature_1": 22.4,
+      "humidity": 46.72,
+      "pressure": 1006.2525,
+      "rssi": -82.167
+    },
+    {
+      "temperature_1": 21.14,
+      "humidity": 49.41,
+      "pressure": 991.5757,
+      "rssi": -86.6397
+    },
+    {
+      "temperature_1": 22.16,
+      "humidity": 49.84,
+      "pressure": 1009.892,
+      "rssi": -98.6137
+    },
+    {
+      "temperature_1": 20.94,
+      "humidity": 45.04,
+      "pressure": 993.3869,
+      "rssi": -88.4812
+    },
+    {
+      "temperature_1": 20.3,
+      "humidity": 45.66,
+      "pressure": 991.267,
+      "rssi": -77.3705
+    },
+    {
+      "temperature_1": 20.25,
+      "humidity": 47.73,
+      "pressure": 1000.1156,
+      "rssi": -69.0738
+    },
+    {
+      "temperature_1": 24.07,
+      "humidity": 49.87,
+      "pressure": 992.5504,
+      "rssi": -61.1194
+    },
+    {
+      "temperature_1": 20.35,
+      "humidity": 48.04,
+      "pressure": 992.1963,
+      "rssi": -75.9835
+    },
+    {
+      "temperature_1": 24.05,
+      "humidity": 47.96,
+      "pressure": 999.3331,
+      "rssi": -79.5186
+    },
+    {
+      "temperature_1": 20.91,
+      "humidity": 46.39,
+      "pressure": 1004.236,
+      "rssi": -66.039
+    },
+    {
+      "temperature_1": 24.35,
+      "humidity": 47,
+      "pressure": 1001.0413,
+      "rssi": -67.8444
+    },
+    {
+      "temperature_1": 24.73,
+      "humidity": 45.71,
+      "pressure": 994.8395,
+      "rssi": -98.6211
+    },
+    {
+      "temperature_1": 24.49,
+      "humidity": 49.11,
+      "pressure": 1002.659,
+      "rssi": -78.1962
+    },
+    {
+      "temperature_1": 21.38,
+      "humidity": 48.35,
+      "pressure": 1003.1119,
+      "rssi": -63.2469
+    },
+    {
+      "temperature_1": 22.39,
+      "humidity": 45.12,
+      "pressure": 1000.0117,
+      "rssi": -63.7681
+    },
+    {
+      "temperature_1": 22.83,
+      "humidity": 45.52,
+      "pressure": 990.0899,
+      "rssi": -92.02
+    },
+    {
+      "temperature_1": 22.38,
+      "humidity": 45.2,
+      "pressure": 992.2247,
+      "rssi": -59.2509
+    },
+    {
+      "temperature_1": 24.85,
+      "humidity": 46.61,
+      "pressure": 998.1805,
+      "rssi": -50.7529
+    },
+    {
+      "temperature_1": 23.32,
+      "humidity": 46.57,
+      "pressure": 1000.6525,
+      "rssi": -84.4901
+    },
+    {
+      "temperature_1": 23.9,
+      "humidity": 46.38,
+      "pressure": 1004.1422,
+      "rssi": -77.2897
+    },
+    {
+      "temperature_1": 21.56,
+      "humidity": 49.7,
+      "pressure": 990.5485,
+      "rssi": -61.4934
+    },
+    {
+      "temperature_1": 22.98,
+      "humidity": 49.31,
+      "pressure": 997.3457,
+      "rssi": -95.3352
+    },
+    {
+      "temperature_1": 22.96,
+      "humidity": 49.66,
+      "pressure": 1004.4147,
+      "rssi": -63.3351
+    },
+    {
+      "temperature_1": 23.55,
+      "humidity": 46.63,
+      "pressure": 993.3724,
+      "rssi": -57.6568
+    },
+    {
+      "temperature_1": 21.37,
+      "humidity": 48.59,
+      "pressure": 995.0861,
+      "rssi": -79.4935
+    },
+    {
+      "temperature_1": 22.54,
+      "humidity": 45.99,
+      "pressure": 1006.2131,
+      "rssi": -65.6473
+    },
+    {
+      "temperature_1": 23.43,
+      "humidity": 49.59,
+      "pressure": 1007.5838,
+      "rssi": -84.5109
+    },
+    {
+      "temperature_1": 23.78,
+      "humidity": 45.28,
+      "pressure": 992.5559,
+      "rssi": -90.3855
+    },
+    {
+      "temperature_1": 22.27,
+      "humidity": 46.6,
+      "pressure": 1008.2975,
+      "rssi": -73.3377
+    },
+    {
+      "temperature_1": 23.45,
+      "humidity": 49.65,
+      "pressure": 1001.0186,
+      "rssi": -98.212
+    },
+    {
+      "temperature_1": 22.13,
+      "humidity": 48.39,
+      "pressure": 1008.6214,
+      "rssi": -91.4271
+    },
+    {
+      "temperature_1": 21.08,
+      "humidity": 48.11,
+      "pressure": 1006.7166,
+      "rssi": -84.7969
+    },
+    {
+      "temperature_1": 22.54,
+      "humidity": 49.08,
+      "pressure": 1006.4741,
+      "rssi": -83.6703
+    },
+    {
+      "temperature_1": 20.49,
+      "humidity": 49.52,
+      "pressure": 1005.9268,
+      "rssi": -62.2817
+    },
+    {
+      "temperature_1": 24.43,
+      "humidity": 45.38,
+      "pressure": 1006.0563,
+      "rssi": -55.3719
+    },
+    {
+      "temperature_1": 21.91,
+      "humidity": 45.36,
+      "pressure": 1003.5807,
+      "rssi": -84.6212
+    },
+    {
+      "temperature_1": 21.32,
+      "humidity": 49.09,
+      "pressure": 1004.0027,
+      "rssi": -60.7927
+    },
+    {
+      "temperature_1": 23.72,
+      "humidity": 49.53,
+      "pressure": 1000.3692,
+      "rssi": -78.8502
+    },
+    {
+      "temperature_1": 22.47,
+      "humidity": 47.33,
+      "pressure": 998.0679,
+      "rssi": -97.8072
+    },
+    {
+      "temperature_1": 22.03,
+      "humidity": 49.57,
+      "pressure": 1002.5651,
+      "rssi": -80.6227
+    },
+    {
+      "temperature_1": 20.81,
+      "humidity": 48.02,
+      "pressure": 1008.6562,
+      "rssi": -72.4289
+    },
+    {
+      "temperature_1": 22.38,
+      "humidity": 49.77,
+      "pressure": 998.1165,
+      "rssi": -51.7623
+    },
+    {
+      "temperature_1": 24.22,
+      "humidity": 46.6,
+      "pressure": 996.0591,
+      "rssi": -91.6291
+    },
+    {
+      "temperature_1": 20.81,
+      "humidity": 49.58,
+      "pressure": 998.136,
+      "rssi": -63.7795
+    },
+    {
+      "temperature_1": 24.81,
+      "humidity": 48.23,
+      "pressure": 996.271,
+      "rssi": -53.3204
+    },
+    {
+      "temperature_1": 23.67,
+      "humidity": 48.65,
+      "pressure": 994.887,
+      "rssi": -79.227
+    },
+    {
+      "temperature_1": 22.5,
+      "humidity": 49.49,
+      "pressure": 1001.1994,
+      "rssi": -64.3975
+    },
+    {
+      "temperature_1": 24.31,
+      "humidity": 45.45,
+      "pressure": 1005.7354,
+      "rssi": -50.7654
+    },
+    {
+      "temperature_1": 21.93,
+      "humidity": 49.07,
+      "pressure": 1006.9762,
+      "rssi": -86.0123
+    },
+    {
+      "temperature_1": 22.82,
+      "humidity": 47.04,
+      "pressure": 998.7689,
+      "rssi": -86.7095
+    },
+    {
+      "temperature_1": 22.83,
+      "humidity": 45.66,
+      "pressure": 993.0628,
+      "rssi": -84.3337
+    },
+    {
+      "temperature_1": 22.01,
+      "humidity": 48.17,
+      "pressure": 1007.4242,
+      "rssi": -88.9136
+    },
+    {
+      "temperature_1": 24.52,
+      "humidity": 49.7,
+      "pressure": 1003.1124,
+      "rssi": -62.8269
+    },
+    {
+      "temperature_1": 23.32,
+      "humidity": 45.27,
+      "pressure": 995.2232,
+      "rssi": -67.2034
+    },
+    {
+      "temperature_1": 21.49,
+      "humidity": 48.1,
+      "pressure": 1004.4452,
+      "rssi": -79.9259
+    },
+    {
+      "temperature_1": 22.72,
+      "humidity": 47.63,
+      "pressure": 1003.7544,
+      "rssi": -84.1626
+    },
+    {
+      "temperature_1": 20.04,
+      "humidity": 45.32,
+      "pressure": 994.5995,
+      "rssi": -66.523
+    },
+    {
+      "temperature_1": 24.46,
+      "humidity": 49.72,
+      "pressure": 994.3845,
+      "rssi": -59.3042
+    },
+    {
+      "temperature_1": 21.91,
+      "humidity": 49.1,
+      "pressure": 1004.2978,
+      "rssi": -86.2443
+    },
+    {
+      "temperature_1": 21.14,
+      "humidity": 47.64,
+      "pressure": 996.1723,
+      "rssi": -66.2041
+    },
+    {
+      "temperature_1": 21.94,
+      "humidity": 47.49,
+      "pressure": 1008.1561,
+      "rssi": -88.7518
+    },
+    {
+      "temperature_1": 20.62,
+      "humidity": 46.43,
+      "pressure": 993.7112,
+      "rssi": -56.8831
+    },
+    {
+      "temperature_1": 22.07,
+      "humidity": 47.7,
+      "pressure": 1005.2312,
+      "rssi": -69.9619
+    },
+    {
+      "temperature_1": 24.44,
+      "humidity": 48.61,
+      "pressure": 1004.2928,
+      "rssi": -62.6974
+    },
+    {
+      "temperature_1": 23.51,
+      "humidity": 49.02,
+      "pressure": 1001.0734,
+      "rssi": -63.3195
+    },
+    {
+      "temperature_1": 21.43,
+      "humidity": 46.3,
+      "pressure": 993.0473,
+      "rssi": -93.0717
+    },
+    {
+      "temperature_1": 21.37,
+      "humidity": 46.1,
+      "pressure": 1003.2068,
+      "rssi": -78.4978
+    },
+    {
+      "temperature_1": 22.79,
+      "humidity": 48.93,
+      "pressure": 993.0301,
+      "rssi": -98.7647
+    },
+    {
+      "temperature_1": 23.7,
+      "humidity": 46.52,
+      "pressure": 1006.1217,
+      "rssi": -99.8732
+    },
+    {
+      "temperature_1": 24.29,
+      "humidity": 45.8,
+      "pressure": 996.1967,
+      "rssi": -82.7631
+    },
+    {
+      "temperature_1": 21.98,
+      "humidity": 47.22,
+      "pressure": 993.9357,
+      "rssi": -54.4442
+    },
+    {
+      "temperature_1": 22.62,
+      "humidity": 49.87,
+      "pressure": 1004.179,
+      "rssi": -77.9574
+    },
+    {
+      "temperature_1": 21.03,
+      "humidity": 47.74,
+      "pressure": 1008.1911,
+      "rssi": -52.0388
+    },
+    {
+      "temperature_1": 20.27,
+      "humidity": 48.3,
+      "pressure": 994.8532,
+      "rssi": -68.8928
+    },
+    {
+      "temperature_1": 24.64,
+      "humidity": 46.28,
+      "pressure": 1004.9662,
+      "rssi": -53.7078
+    },
+    {
+      "temperature_1": 22.33,
+      "humidity": 47.34,
+      "pressure": 1002.448,
+      "rssi": -92.5974
+    },
+    {
+      "temperature_1": 21.84,
+      "humidity": 49.51,
+      "pressure": 1000.2977,
+      "rssi": -97.4632
+    },
+    {
+      "temperature_1": 22.28,
+      "humidity": 48.64,
+      "pressure": 1002.2865,
+      "rssi": -73.7778
+    },
+    {
+      "temperature_1": 23.85,
+      "humidity": 46.71,
+      "pressure": 1000.3076,
+      "rssi": -65.3978
+    },
+    {
+      "temperature_1": 23.56,
+      "humidity": 49.8,
+      "pressure": 1000.94,
+      "rssi": -71.733
+    },
+    {
+      "temperature_1": 24.1,
+      "humidity": 45.38,
+      "pressure": 996.7804,
+      "rssi": -51.4162
+    },
+    {
+      "temperature_1": 24.14,
+      "humidity": 45.17,
+      "pressure": 1003.7603,
+      "rssi": -59.2414
+    },
+    {
+      "temperature_1": 23.65,
+      "humidity": 46.95,
+      "pressure": 1000.5529,
+      "rssi": -77.4719
+    },
+    {
+      "temperature_1": 20.84,
+      "humidity": 48.72,
+      "pressure": 1002.0006,
+      "rssi": -92.072
+    },
+    {
+      "temperature_1": 24.42,
+      "humidity": 48.97,
+      "pressure": 991.2877,
+      "rssi": -65.6224
+    },
+    {
+      "temperature_1": 20.04,
+      "humidity": 49.81,
+      "pressure": 1003.9355,
+      "rssi": -62.8845
+    },
+    {
+      "temperature_1": 22.99,
+      "humidity": 49.98,
+      "pressure": 1004.8959,
+      "rssi": -51.6614
+    },
+    {
+      "temperature_1": 24.82,
+      "humidity": 45.17,
+      "pressure": 1006.0144,
+      "rssi": -60.1065
+    },
+    {
+      "temperature_1": 20.02,
+      "humidity": 49.03,
+      "pressure": 1001.3737,
+      "rssi": -90.2552
+    },
+    {
+      "temperature_1": 22.76,
+      "humidity": 47.4,
+      "pressure": 1007.2071,
+      "rssi": -54.3276
+    },
+    {
+      "temperature_1": 20.2,
+      "humidity": 45.25,
+      "pressure": 998.7013,
+      "rssi": -80.9483
+    },
+    {
+      "temperature_1": 21.96,
+      "humidity": 47.97,
+      "pressure": 999.6498,
+      "rssi": -57.4164
+    },
+    {
+      "temperature_1": 23.77,
+      "humidity": 47.62,
+      "pressure": 1006.5459,
+      "rssi": -64.3076
+    },
+    {
+      "temperature_1": 22.29,
+      "humidity": 45.08,
+      "pressure": 998.6509,
+      "rssi": -66.2522
+    },
+    {
+      "temperature_1": 23.78,
+      "humidity": 45,
+      "pressure": 1008.2619,
+      "rssi": -79.1458
+    },
+    {
+      "temperature_1": 22.89,
+      "humidity": 46.98,
+      "pressure": 1007.5614,
+      "rssi": -93.514
+    },
+    {
+      "temperature_1": 20.23,
+      "humidity": 49.76,
+      "pressure": 995.3936,
+      "rssi": -84.0094
+    },
+    {
+      "temperature_1": 24.48,
+      "humidity": 47.66,
+      "pressure": 993.1538,
+      "rssi": -79.4805
+    },
+    {
+      "temperature_1": 20.67,
+      "humidity": 48.48,
+      "pressure": 994.2881,
+      "rssi": -98.4042
+    },
+    {
+      "temperature_1": 20.37,
+      "humidity": 49.29,
+      "pressure": 1002.1716,
+      "rssi": -75.4417
+    },
+    {
+      "temperature_1": 20.55,
+      "humidity": 48.51,
+      "pressure": 995.9073,
+      "rssi": -95.61
+    },
+    {
+      "temperature_1": 20.67,
+      "humidity": 48.4,
+      "pressure": 993.5147,
+      "rssi": -57.6536
+    },
+    {
+      "temperature_1": 21.11,
+      "humidity": 45.75,
+      "pressure": 999.2629,
+      "rssi": -97.2863
+    },
+    {
+      "temperature_1": 24.81,
+      "humidity": 45.06,
+      "pressure": 993.0795,
+      "rssi": -69.1944
+    },
+    {
+      "temperature_1": 22.1,
+      "humidity": 48.94,
+      "pressure": 994.0269,
+      "rssi": -96.7527
+    },
+    {
+      "temperature_1": 23.26,
+      "humidity": 49.9,
+      "pressure": 993.2285,
+      "rssi": -58.7916
+    },
+    {
+      "temperature_1": 20.08,
+      "humidity": 49.93,
+      "pressure": 1008.6302,
+      "rssi": -97.8671
+    },
+    {
+      "temperature_1": 24.75,
+      "humidity": 49.28,
+      "pressure": 998.8268,
+      "rssi": -82.4035
+    },
+    {
+      "temperature_1": 23.3,
+      "humidity": 46.67,
+      "pressure": 996.6613,
+      "rssi": -65.842
+    },
+    {
+      "temperature_1": 21.98,
+      "humidity": 47.83,
+      "pressure": 1006.4841,
+      "rssi": -89.1507
+    },
+    {
+      "temperature_1": 20.86,
+      "humidity": 46.47,
+      "pressure": 994.6764,
+      "rssi": -99.2417
+    },
+    {
+      "temperature_1": 23.52,
+      "humidity": 49.55,
+      "pressure": 1007.5385,
+      "rssi": -95.5218
+    },
+    {
+      "temperature_1": 24.76,
+      "humidity": 47.57,
+      "pressure": 998.6034,
+      "rssi": -92.3298
+    },
+    {
+      "temperature_1": 22.05,
+      "humidity": 47.12,
+      "pressure": 996.6637,
+      "rssi": -89.8332
+    },
+    {
+      "temperature_1": 23.52,
+      "humidity": 46.26,
+      "pressure": 1003.8045,
+      "rssi": -85.3356
+    },
+    {
+      "temperature_1": 22.46,
+      "humidity": 49.69,
+      "pressure": 1004.0875,
+      "rssi": -51.1598
+    },
+    {
+      "temperature_1": 22.99,
+      "humidity": 46.8,
+      "pressure": 990.7268,
+      "rssi": -70.5932
+    },
+    {
+      "temperature_1": 24.68,
+      "humidity": 49.32,
+      "pressure": 994.6942,
+      "rssi": -69.8639
+    },
+    {
+      "temperature_1": 20.36,
+      "humidity": 45.31,
+      "pressure": 999.1815,
+      "rssi": -91.5536
+    },
+    {
+      "temperature_1": 21.41,
+      "humidity": 47.74,
+      "pressure": 997.5994,
+      "rssi": -92.0169
+    },
+    {
+      "temperature_1": 23,
+      "humidity": 49.66,
+      "pressure": 997.2802,
+      "rssi": -52.5738
+    },
+    {
+      "temperature_1": 20.13,
+      "humidity": 49.68,
+      "pressure": 995.2011,
+      "rssi": -63.3585
+    },
+    {
+      "temperature_1": 22.53,
+      "humidity": 45.14,
+      "pressure": 1002.7524,
+      "rssi": -63.4486
+    },
+    {
+      "temperature_1": 22.6,
+      "humidity": 46.19,
+      "pressure": 1006.3494,
+      "rssi": -57.878
+    },
+    {
+      "temperature_1": 24.89,
+      "humidity": 46.18,
+      "pressure": 1000.4518,
+      "rssi": -69.0857
+    },
+    {
+      "temperature_1": 21.9,
+      "humidity": 47.95,
+      "pressure": 1008.5735,
+      "rssi": -88.8313
+    },
+    {
+      "temperature_1": 21.83,
+      "humidity": 45.9,
+      "pressure": 1008.9214,
+      "rssi": -61.5124
+    },
+    {
+      "temperature_1": 22.66,
+      "humidity": 48.2,
+      "pressure": 1002.1728,
+      "rssi": -92.642
+    },
+    {
+      "temperature_1": 20.03,
+      "humidity": 46.11,
+      "pressure": 998.3819,
+      "rssi": -66.0974
+    },
+    {
+      "temperature_1": 21.71,
+      "humidity": 48.49,
+      "pressure": 991.0229,
+      "rssi": -93.3557
+    },
+    {
+      "temperature_1": 22.7,
+      "humidity": 48.81,
+      "pressure": 1004.5772,
+      "rssi": -90.4678
+    },
+    {
+      "temperature_1": 24.27,
+      "humidity": 48.38,
+      "pressure": 992.1621,
+      "rssi": -58.8606
+    },
+    {
+      "temperature_1": 20.8,
+      "humidity": 45.19,
+      "pressure": 995.0425,
+      "rssi": -97.452
+    },
+    {
+      "temperature_1": 20.24,
+      "humidity": 48.38,
+      "pressure": 1005.7646,
+      "rssi": -56.2891
+    },
+    {
+      "temperature_1": 21.83,
+      "humidity": 48.51,
+      "pressure": 1003.5691,
+      "rssi": -65.5746
+    },
+    {
+      "temperature_1": 22.57,
+      "humidity": 48.32,
+      "pressure": 998.7471,
+      "rssi": -62.9375
+    },
+    {
+      "temperature_1": 20.68,
+      "humidity": 49.72,
+      "pressure": 999.3327,
+      "rssi": -68.7274
+    },
+    {
+      "temperature_1": 22.95,
+      "humidity": 45.13,
+      "pressure": 1003.1527,
+      "rssi": -54.7369
+    },
+    {
+      "temperature_1": 22.31,
+      "humidity": 46.42,
+      "pressure": 995.5133,
+      "rssi": -52.9739
+    }
+  ]
+}
